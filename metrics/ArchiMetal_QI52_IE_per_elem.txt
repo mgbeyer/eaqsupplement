@@ -1,0 +1,1584 @@
+<tmp elem="AJ1" type="AndJunction" IE="2" maxIE="90"/>
+<tmp elem="AJ2" type="AndJunction" IE="0" maxIE="90"/>
+<tmp elem="Customer contract"
+     type="ApplicationCollaboration"
+     IE="42"
+     maxIE="90"/>
+<tmp elem="Customer order status"
+     type="ApplicationCollaboration"
+     IE="43.999999999999999998"
+     maxIE="90"/>
+<tmp elem="Customer risk assessment"
+     type="ApplicationCollaboration"
+     IE="24"
+     maxIE="90"/>
+<tmp elem="Total customer debt"
+     type="ApplicationCollaboration"
+     IE="43.999999999999999998"
+     maxIE="90"/>
+<tmp elem="Analytics and reporting"
+     type="ApplicationComponent"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Application component"
+     type="ApplicationComponent"
+     IE="36"
+     maxIE="90"/>
+<tmp elem="BI toolset" type="ApplicationComponent" IE="0" maxIE="90"/>
+<tmp elem="CRM" type="ApplicationComponent" IE="12" maxIE="90"/>
+<tmp elem="CRM system"
+     type="ApplicationComponent"
+     IE="34.399999999999999998"
+     maxIE="90"/>
+<tmp elem="Contracts component"
+     type="ApplicationComponent"
+     IE="15"
+     maxIE="90"/>
+<tmp elem="Customer data component"
+     type="ApplicationComponent"
+     IE="12"
+     maxIE="90"/>
+<tmp elem="Customer data management application"
+     type="ApplicationComponent"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Customer order monitoring application"
+     type="ApplicationComponent"
+     IE="24"
+     maxIE="90"/>
+<tmp elem="Customer order notifications component"
+     type="ApplicationComponent"
+     IE="24"
+     maxIE="90"/>
+<tmp elem="DC Shipping application"
+     type="ApplicationComponent"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="DC order management"
+     type="ApplicationComponent"
+     IE="28.8"
+     maxIE="90"/>
+<tmp elem="Distributers invoicing"
+     type="ApplicationComponent"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Distributors management"
+     type="ApplicationComponent"
+     IE="18"
+     maxIE="90"/>
+<tmp elem="EAI bus"
+     type="ApplicationComponent"
+     IE="14.571428571428571426"
+     maxIE="90"/>
+<tmp elem="ERP" type="ApplicationComponent" IE="30" maxIE="90"/>
+<tmp elem="ERP application"
+     type="ApplicationComponent"
+     IE="22.8"
+     maxIE="90"/>
+<tmp elem="Financial" type="ApplicationComponent" IE="0" maxIE="90"/>
+<tmp elem="Financial applicaiton"
+     type="ApplicationComponent"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Financial application"
+     type="ApplicationComponent"
+     IE="22.000000000000000002"
+     maxIE="90"/>
+<tmp elem="Financial application HQ"
+     type="ApplicationComponent"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Integrated customer-centric solution"
+     type="ApplicationComponent"
+     IE="33"
+     maxIE="90"/>
+<tmp elem="Inventory" type="ApplicationComponent" IE="0" maxIE="90"/>
+<tmp elem="Invoicing (Distributors)"
+     type="ApplicationComponent"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Invoicing application"
+     type="ApplicationComponent"
+     IE="18"
+     maxIE="90"/>
+<tmp elem="Logistics module"
+     type="ApplicationComponent"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Materials management"
+     type="ApplicationComponent"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Order management application"
+     type="ApplicationComponent"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Order management component"
+     type="ApplicationComponent"
+     IE="24"
+     maxIE="90"/>
+<tmp elem="Planning Module"
+     type="ApplicationComponent"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production planning"
+     type="ApplicationComponent"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production scheduliing"
+     type="ApplicationComponent"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Shipping application"
+     type="ApplicationComponent"
+     IE="22.000000000000000002"
+     maxIE="90"/>
+<tmp elem="Acquisition"
+     type="ApplicationFunction"
+     IE="72"
+     maxIE="90"/>
+<tmp elem="Acquisition: Social"
+     type="ApplicationFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Billing" type="ApplicationFunction" IE="0" maxIE="90"/>
+<tmp elem="CRM" type="ApplicationFunction" IE="81" maxIE="90"/>
+<tmp elem="Control application functions"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Control: Maintenance Management"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Control: Material and Energy Control"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Control: Product Inventory Control"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Control: Production Control"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Control: Production Scheduling (Local)"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Control: quality assurance"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Cross-functional customer analytics"
+     type="ApplicationFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Data management"
+     type="ApplicationFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Deployment" type="ApplicationFunction" IE="0" maxIE="90"/>
+<tmp elem="Enterprise application functions"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Customer Service"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Maintenance Management"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Marketing &amp; Sales"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Material and Energy Control"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Order Processing"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Procurement"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Product Cost Accounting"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Product Inventory Control"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Product Shipping Admin"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Production Scheduling (Global)"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Quality Assurance"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Enterprise: Research
+Development &amp; Engineering"
+     type="ApplicationFunction"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Field service management"
+     type="ApplicationFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Foundational"
+     type="ApplicationFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Infrastructure"
+     type="ApplicationFunction"
+     IE="63"
+     maxIE="90"/>
+<tmp elem="Retention"
+     type="ApplicationFunction"
+     IE="74.999999999999999997"
+     maxIE="90"/>
+<tmp elem="Retention: Social"
+     type="ApplicationFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Sales analytics"
+     type="ApplicationFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Sales management"
+     type="ApplicationFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Salesforce automation"
+     type="ApplicationFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Service &amp; support productivity"
+     type="ApplicationFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Understanding"
+     type="ApplicationFunction"
+     IE="66.6"
+     maxIE="90"/>
+<tmp elem="Web customer Service"
+     type="ApplicationFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Assess customer risk"
+     type="ApplicationInteraction"
+     IE="54"
+     maxIE="90"/>
+<tmp elem="Create customer contract"
+     type="ApplicationInteraction"
+     IE="54"
+     maxIE="90"/>
+<tmp elem="Customer risk interface"
+     type="ApplicationInterface"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Enterprise-control application interface"
+     type="ApplicationInterface"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Analytics" type="ApplicationService" IE="0" maxIE="90"/>
+<tmp elem="Application service"
+     type="ApplicationService"
+     IE="49.5"
+     maxIE="90"/>
+<tmp elem="Application service (2)"
+     type="ApplicationService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Application service (3)"
+     type="ApplicationService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Bulk order creation service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Bulk order transmission service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="CRM" type="ApplicationService" IE="45" maxIE="90"/>
+<tmp elem="Contract creating service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Contract creation service"
+     type="ApplicationService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Contract printing service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Control application Integration"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Customer administration service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Customer credit analysis service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Customer data mgmt"
+     type="ApplicationService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Customer information service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Customer order administration service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Customer order history information service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Customer order tracking service"
+     type="ApplicationService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="DC order administratoin service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="DC orders registration service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="DC orders statuses service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Distributor information service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="ERP" type="ApplicationService" IE="45" maxIE="90"/>
+<tmp elem="Enterprise application integration"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Order administration service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Order status mgt"
+     type="ApplicationService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Product availability consultation"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Production order creation service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Query" type="ApplicationService" IE="0" maxIE="90"/>
+<tmp elem="Quoting" type="ApplicationService" IE="0" maxIE="90"/>
+<tmp elem="Reporting" type="ApplicationService" IE="0" maxIE="90"/>
+<tmp elem="Sales pipeline mgmt"
+     type="ApplicationService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Shipping order creation service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Social interaction"
+     type="ApplicationService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Total customer debt information service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Verify customer exposure service"
+     type="ApplicationService"
+     IE="45"
+     maxIE="90"/>
+<tmp elem="Assessment" type="Assessment" IE="0" maxIE="90"/>
+<tmp elem="Average revenue per customer is too low"
+     type="Assessment"
+     IE="1"
+     maxIE="90"/>
+<tmp elem="Design still valid" type="Assessment" IE="1" maxIE="90"/>
+<tmp elem="Inefficient order fullfilment"
+     type="Assessment"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Lack of global and consistent view over customer"
+     type="Assessment"
+     IE="1"
+     maxIE="90"/>
+<tmp elem="Lead time to customer too long"
+     type="Assessment"
+     IE="4.5"
+     maxIE="90"/>
+<tmp elem="Market pressure on service innovation"
+     type="Assessment"
+     IE="1"
+     maxIE="90"/>
+<tmp elem="No sales forecasing and customer history analysis possible"
+     type="Assessment"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Order already designed and priced"
+     type="Assessment"
+     IE="8"
+     maxIE="90"/>
+<tmp elem="Price out-of-date" type="Assessment" IE="0" maxIE="90"/>
+<tmp elem="Suboptimal client profiling"
+     type="Assessment"
+     IE="1"
+     maxIE="90"/>
+<tmp elem="Suboptimal sales processes"
+     type="Assessment"
+     IE="4.5"
+     maxIE="90"/>
+<tmp elem="Too many late order fullfilments"
+     type="Assessment"
+     IE="1"
+     maxIE="90"/>
+<tmp elem="Underdevelopped customer relationship"
+     type="Assessment"
+     IE="8"
+     maxIE="90"/>
+<tmp elem="ArchiBuilder" type="BusinessActor" IE="35" maxIE="90"/>
+<tmp elem="ArchiMetal" type="BusinessActor" IE="49" maxIE="90"/>
+<tmp elem="Business actor" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Business actor (4)"
+     type="BusinessActor"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business intelligence analysi"
+     type="BusinessActor"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Commercial" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Contact" type="BusinessActor" IE="7" maxIE="90"/>
+<tmp elem="Contact center agent"
+     type="BusinessActor"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Credit" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Customer" type="BusinessActor" IE="7" maxIE="90"/>
+<tmp elem="Customer Contact" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Customer relations"
+     type="BusinessActor"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Customer service" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="DC Benelux" type="BusinessActor" IE="49" maxIE="90"/>
+<tmp elem="DC East Europe" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="DC Spain" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Distribution" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Enterprise" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Finance" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="HQ" type="BusinessActor" IE="49" maxIE="90"/>
+<tmp elem="HR" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Head of manufacturing"
+     type="BusinessActor"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Head of sales" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Lead" type="BusinessActor" IE="7" maxIE="90"/>
+<tmp elem="Logistics" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Logistics Partner" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Logistics planner" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Manufacturing engineer"
+     type="BusinessActor"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Manufacturing planner"
+     type="BusinessActor"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Marketing" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Opportunity" type="BusinessActor" IE="7" maxIE="90"/>
+<tmp elem="Procurement" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Production" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Production center"
+     type="BusinessActor"
+     IE="49"
+     maxIE="90"/>
+<tmp elem="Purchasing agent" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="QualityMgt" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Sales" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Sales manager" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Sales professional"
+     type="BusinessActor"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Service professional"
+     type="BusinessActor"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Supplier" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Supply partner" type="BusinessActor" IE="0" maxIE="90"/>
+<tmp elem="Transportation company"
+     type="BusinessActor"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Transportation partner"
+     type="BusinessActor"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="ABC1" type="BusinessCollaboration" IE="49" maxIE="90"/>
+<tmp elem="Bulk order feedback"
+     type="BusinessEvent"
+     IE="15"
+     maxIE="90"/>
+<tmp elem="Contract in place"
+     type="BusinessEvent"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="Customer order" type="BusinessEvent" IE="20" maxIE="90"/>
+<tmp elem="Customer order registered"
+     type="BusinessEvent"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="Customer order update"
+     type="BusinessEvent"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="Day end" type="BusinessEvent" IE="20" maxIE="90"/>
+<tmp elem="Inquiry" type="BusinessEvent" IE="20" maxIE="90"/>
+<tmp elem="New customer order"
+     type="BusinessEvent"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="New customer registered"
+     type="BusinessEvent"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="New order received"
+     type="BusinessEvent"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="ArchiMetal operations"
+     type="BusinessFunction"
+     IE="56.66666666666666667"
+     maxIE="90"/>
+<tmp elem="Batch operations"
+     type="BusinessFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business function"
+     type="BusinessFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business function (2)"
+     type="BusinessFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business function (3)"
+     type="BusinessFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business function (4)"
+     type="BusinessFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business function (5)"
+     type="BusinessFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Commercial" type="BusinessFunction" IE="10" maxIE="90"/>
+<tmp elem="Continuous operations"
+     type="BusinessFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Control: Maintenance Management"
+     type="BusinessFunction"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Control: Manufacturing Operations &amp; Control business functions"
+     type="BusinessFunction"
+     IE="80"
+     maxIE="90"/>
+<tmp elem="Control: Material and Energy Control"
+     type="BusinessFunction"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Control: Product Inventory Control"
+     type="BusinessFunction"
+     IE="40"
+     maxIE="90"/>
+<tmp elem="Control: Production Control"
+     type="BusinessFunction"
+     IE="36.66666666666666667"
+     maxIE="90"/>
+<tmp elem="Control: Production Scheduling (Local)"
+     type="BusinessFunction"
+     IE="38"
+     maxIE="90"/>
+<tmp elem="Control: quality assurance"
+     type="BusinessFunction"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="Credit" type="BusinessFunction" IE="0" maxIE="90"/>
+<tmp elem="Customer relationship management"
+     type="BusinessFunction"
+     IE="10"
+     maxIE="90"/>
+<tmp elem="DC Customer relations"
+     type="BusinessFunction"
+     IE="10"
+     maxIE="90"/>
+<tmp elem="DCFinance" type="BusinessFunction" IE="0" maxIE="90"/>
+<tmp elem="Detailed production scheduling"
+     type="BusinessFunction"
+     IE="25"
+     maxIE="90"/>
+<tmp elem="Distribution" type="BusinessFunction" IE="10" maxIE="90"/>
+<tmp elem="Enterprise Functions"
+     type="BusinessFunction"
+     IE="80"
+     maxIE="90"/>
+<tmp elem="Enterprise: Business Planning &amp; Logistics business functions"
+     type="BusinessFunction"
+     IE="80"
+     maxIE="90"/>
+<tmp elem="Enterprise: Customer Service"
+     type="BusinessFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Enterprise: Maintenance Management"
+     type="BusinessFunction"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Enterprise: Marketing &amp; Sales"
+     type="BusinessFunction"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Enterprise: Material and Energy Control"
+     type="BusinessFunction"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Enterprise: Order Processing"
+     type="BusinessFunction"
+     IE="38"
+     maxIE="90"/>
+<tmp elem="Enterprise: Procurement"
+     type="BusinessFunction"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Enterprise: Product Cost Accounting"
+     type="BusinessFunction"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Enterprise: Product Inventory Control"
+     type="BusinessFunction"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Enterprise: Product Shipping Admin"
+     type="BusinessFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Enterprise: Production Scheduling (Global)"
+     type="BusinessFunction"
+     IE="38"
+     maxIE="90"/>
+<tmp elem="Enterprise: Quality Assurance"
+     type="BusinessFunction"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Enterprise: Research
+Development &amp; Engineering"
+     type="BusinessFunction"
+     IE="10"
+     maxIE="90"/>
+<tmp elem="Finance" type="BusinessFunction" IE="30" maxIE="90"/>
+<tmp elem="Level 0-2 functions"
+     type="BusinessFunction"
+     IE="10"
+     maxIE="90"/>
+<tmp elem="Logistics" type="BusinessFunction" IE="20" maxIE="90"/>
+<tmp elem="Marketing" type="BusinessFunction" IE="40" maxIE="90"/>
+<tmp elem="Procurement" type="BusinessFunction" IE="10" maxIE="90"/>
+<tmp elem="Product definition management"
+     type="BusinessFunction"
+     IE="17.5"
+     maxIE="90"/>
+<tmp elem="Production" type="BusinessFunction" IE="25" maxIE="90"/>
+<tmp elem="Production data collection"
+     type="BusinessFunction"
+     IE="10"
+     maxIE="90"/>
+<tmp elem="Production dispatching"
+     type="BusinessFunction"
+     IE="10"
+     maxIE="90"/>
+<tmp elem="Production execution management"
+     type="BusinessFunction"
+     IE="10"
+     maxIE="90"/>
+<tmp elem="Production performance analysis"
+     type="BusinessFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production resource management"
+     type="BusinessFunction"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="Production tracking"
+     type="BusinessFunction"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="Repetitive or discrete operations"
+     type="BusinessFunction"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Sales" type="BusinessFunction" IE="22" maxIE="90"/>
+<tmp elem="Service" type="BusinessFunction" IE="40" maxIE="90"/>
+<tmp elem="Warehousing" type="BusinessFunction" IE="10" maxIE="90"/>
+<tmp elem="Enterprise-control functional interface"
+     type="BusinessInterface"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="ABO1" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Accepted proposal"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Add new equipment"
+     type="BusinessObject"
+     IE="4"
+     maxIE="90"/>
+<tmp elem="Add new production schedule"
+     type="BusinessObject"
+     IE="4"
+     maxIE="90"/>
+<tmp elem="Assessment" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Bulk order data" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Business object" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Business object (2)"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business object (3)"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business object (4)"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business object (5)"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business object (6)"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business object (7)"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Cancelled Order" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Change order" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Contact" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Contract" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Contract data" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Credit profile" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Credit risk policy"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Customer" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Customer Information"
+     type="BusinessObject"
+     IE="32"
+     maxIE="90"/>
+<tmp elem="Customer credit profile"
+     type="BusinessObject"
+     IE="36"
+     maxIE="90"/>
+<tmp elem="Customer data" type="BusinessObject" IE="36" maxIE="90"/>
+<tmp elem="Customer order data"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Customer signature"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="DC order data" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Deal" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Distributor data" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Interaction history"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Inventory data" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Lead" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="New Order" type="BusinessObject" IE="4" maxIE="90"/>
+<tmp elem="New equipment confirmation"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="New schedule acceptance"
+     type="BusinessObject"
+     IE="36"
+     maxIE="90"/>
+<tmp elem="Opportunity" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Order" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Order History" type="BusinessObject" IE="32" maxIE="90"/>
+<tmp elem="Order Status" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Order assessment" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Order data" type="BusinessObject" IE="36" maxIE="90"/>
+<tmp elem="Pricing policy" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Process segment capability"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Product Definition"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Product data" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Product segment" type="BusinessObject" IE="4" maxIE="90"/>
+<tmp elem="Production Capability"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production Confirmation"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production Performance"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production Requirement"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production Schedule"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production Schedule (Cell/Unit/Line-Specific)"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production Schedule Update (Site/Area-Specific)"
+     type="BusinessObject"
+     IE="4"
+     maxIE="90"/>
+<tmp elem="Production capability"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production order data"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production performance"
+     type="BusinessObject"
+     IE="32"
+     maxIE="90"/>
+<tmp elem="Production request"
+     type="BusinessObject"
+     IE="32"
+     maxIE="90"/>
+<tmp elem="Production response"
+     type="BusinessObject"
+     IE="18"
+     maxIE="90"/>
+<tmp elem="Production rule" type="BusinessObject" IE="32" maxIE="90"/>
+<tmp elem="Production schedule"
+     type="BusinessObject"
+     IE="32"
+     maxIE="90"/>
+<tmp elem="Production status"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production status request"
+     type="BusinessObject"
+     IE="4"
+     maxIE="90"/>
+<tmp elem="Profile" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Sales Pipeline" type="BusinessObject" IE="0" maxIE="90"/>
+<tmp elem="Schedule Confirmation (Global)"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Schedule Confirmation (Local)"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Schedule revision"
+     type="BusinessObject"
+     IE="4"
+     maxIE="90"/>
+<tmp elem="Schedule revision confirmation"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Segment requirement"
+     type="BusinessObject"
+     IE="4"
+     maxIE="90"/>
+<tmp elem="Segment response" type="BusinessObject" IE="4" maxIE="90"/>
+<tmp elem="Shipping order data"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Transaction History"
+     type="BusinessObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Accept order" type="BusinessProcess" IE="30" maxIE="90"/>
+<tmp elem="Accept proposal"
+     type="BusinessProcess"
+     IE="32"
+     maxIE="90"/>
+<tmp elem="Activate delivery schedule"
+     type="BusinessProcess"
+     IE="55"
+     maxIE="90"/>
+<tmp elem="Activate plan" type="BusinessProcess" IE="20" maxIE="90"/>
+<tmp elem="Analyze" type="BusinessProcess" IE="0" maxIE="90"/>
+<tmp elem="Analyze exposure"
+     type="BusinessProcess"
+     IE="33.33333333333333333"
+     maxIE="90"/>
+<tmp elem="Approve" type="BusinessProcess" IE="0" maxIE="90"/>
+<tmp elem="Approve assessment"
+     type="BusinessProcess"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="Approve credit" type="BusinessProcess" IE="40" maxIE="90"/>
+<tmp elem="Approve credit risk assessment"
+     type="BusinessProcess"
+     IE="35"
+     maxIE="90"/>
+<tmp elem="Approve customer"
+     type="BusinessProcess"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Approve customer data"
+     type="BusinessProcess"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Ask for customer risk assessment"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Ask for order risk assessment"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business process"
+     type="BusinessProcess"
+     IE="60"
+     maxIE="90"/>
+<tmp elem="Business process (2)"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business process (3)"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business process 1"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business process 2"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Check availability"
+     type="BusinessProcess"
+     IE="35"
+     maxIE="90"/>
+<tmp elem="Complete" type="BusinessProcess" IE="0" maxIE="90"/>
+<tmp elem="Create bulk order"
+     type="BusinessProcess"
+     IE="33.33333333333333333"
+     maxIE="90"/>
+<tmp elem="Create customer credit profile"
+     type="BusinessProcess"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Create order"
+     type="BusinessProcess"
+     IE="33.33333333333333333"
+     maxIE="90"/>
+<tmp elem="Create production order"
+     type="BusinessProcess"
+     IE="33.33333333333333333"
+     maxIE="90"/>
+<tmp elem="Create shipping order"
+     type="BusinessProcess"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Credit risk assessment"
+     type="BusinessProcess"
+     IE="60"
+     maxIE="90"/>
+<tmp elem="Define credit limit"
+     type="BusinessProcess"
+     IE="33.33333333333333333"
+     maxIE="90"/>
+<tmp elem="Define payment terms"
+     type="BusinessProcess"
+     IE="40"
+     maxIE="90"/>
+<tmp elem="Define pricing policy"
+     type="BusinessProcess"
+     IE="33.33333333333333333"
+     maxIE="90"/>
+<tmp elem="Design" type="BusinessProcess" IE="10" maxIE="90"/>
+<tmp elem="Develop approved proposal"
+     type="BusinessProcess"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Develop contract"
+     type="BusinessProcess"
+     IE="60"
+     maxIE="90"/>
+<tmp elem="Enter order" type="BusinessProcess" IE="20" maxIE="90"/>
+<tmp elem="Evaluate credit" type="BusinessProcess" IE="0" maxIE="90"/>
+<tmp elem="Evaluate credit risk"
+     type="BusinessProcess"
+     IE="36"
+     maxIE="90"/>
+<tmp elem="Evaluate customer credit"
+     type="BusinessProcess"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="Inform DCs" type="BusinessProcess" IE="0" maxIE="90"/>
+<tmp elem="Inform customer"
+     type="BusinessProcess"
+     IE="40"
+     maxIE="90"/>
+<tmp elem="Inform customer on order"
+     type="BusinessProcess"
+     IE="60"
+     maxIE="90"/>
+<tmp elem="Initial assessment"
+     type="BusinessProcess"
+     IE="33.33333333333333333"
+     maxIE="90"/>
+<tmp elem="Initial profile assessment"
+     type="BusinessProcess"
+     IE="33.33333333333333333"
+     maxIE="90"/>
+<tmp elem="Invoicing" type="BusinessProcess" IE="60" maxIE="90"/>
+<tmp elem="Plan manufacturing"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Plan order" type="BusinessProcess" IE="20" maxIE="90"/>
+<tmp elem="Prepare notification message"
+     type="BusinessProcess"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="Prepare production line"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Present proposal"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Price" type="BusinessProcess" IE="0" maxIE="90"/>
+<tmp elem="Process DC order"
+     type="BusinessProcess"
+     IE="10"
+     maxIE="90"/>
+<tmp elem="Process customer order"
+     type="BusinessProcess"
+     IE="10"
+     maxIE="90"/>
+<tmp elem="Produce order" type="BusinessProcess" IE="0" maxIE="90"/>
+<tmp elem="Ready production line"
+     type="BusinessProcess"
+     IE="20"
+     maxIE="90"/>
+<tmp elem="Receive" type="BusinessProcess" IE="0" maxIE="90"/>
+<tmp elem="Register DC order"
+     type="BusinessProcess"
+     IE="33.33333333333333333"
+     maxIE="90"/>
+<tmp elem="Register customer"
+     type="BusinessProcess"
+     IE="26.66666666666666667"
+     maxIE="90"/>
+<tmp elem="Register order" type="BusinessProcess" IE="30" maxIE="90"/>
+<tmp elem="Reprice old order"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Schedule" type="BusinessProcess" IE="10" maxIE="90"/>
+<tmp elem="Send delivery orders"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Send notification to customer"
+     type="BusinessProcess"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Send to customer"
+     type="BusinessProcess"
+     IE="40"
+     maxIE="90"/>
+<tmp elem="Shipping" type="BusinessProcess" IE="60" maxIE="90"/>
+<tmp elem="Track customer order"
+     type="BusinessProcess"
+     IE="35"
+     maxIE="90"/>
+<tmp elem="Transmit orders"
+     type="BusinessProcess"
+     IE="10"
+     maxIE="90"/>
+<tmp elem="Transmit to production"
+     type="BusinessProcess"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Update DC order"
+     type="BusinessProcess"
+     IE="30"
+     maxIE="90"/>
+<tmp elem="Update customer order"
+     type="BusinessProcess"
+     IE="32"
+     maxIE="90"/>
+<tmp elem="Verify total exposure to customer"
+     type="BusinessProcess"
+     IE="35"
+     maxIE="90"/>
+<tmp elem="Account manager" type="BusinessRole" IE="0" maxIE="90"/>
+<tmp elem="Bank" type="BusinessRole" IE="7" maxIE="90"/>
+<tmp elem="Business role (3)" type="BusinessRole" IE="0" maxIE="90"/>
+<tmp elem="Business role (4)" type="BusinessRole" IE="0" maxIE="90"/>
+<tmp elem="Credit specialist" type="BusinessRole" IE="49" maxIE="90"/>
+<tmp elem="Customer" type="BusinessRole" IE="7" maxIE="90"/>
+<tmp elem="Customer representative"
+     type="BusinessRole"
+     IE="49"
+     maxIE="90"/>
+<tmp elem="DC Benelux" type="BusinessRole" IE="49" maxIE="90"/>
+<tmp elem="Distribution center"
+     type="BusinessRole"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="HQ" type="BusinessRole" IE="49" maxIE="90"/>
+<tmp elem="Logistics planner" type="BusinessRole" IE="49" maxIE="90"/>
+<tmp elem="Manufacturing engineer"
+     type="BusinessRole"
+     IE="49"
+     maxIE="90"/>
+<tmp elem="PC" type="BusinessRole" IE="0" maxIE="90"/>
+<tmp elem="Production center" type="BusinessRole" IE="0" maxIE="90"/>
+<tmp elem="Production manager" type="BusinessRole" IE="0" maxIE="90"/>
+<tmp elem="Production planner"
+     type="BusinessRole"
+     IE="49"
+     maxIE="90"/>
+<tmp elem="Proposal specialist"
+     type="BusinessRole"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Sales manager" type="BusinessRole" IE="0" maxIE="90"/>
+<tmp elem="Sales representative"
+     type="BusinessRole"
+     IE="49"
+     maxIE="90"/>
+<tmp elem="Business service"
+     type="BusinessService"
+     IE="60"
+     maxIE="90"/>
+<tmp elem="Business service (2)"
+     type="BusinessService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Control functional integration"
+     type="BusinessService"
+     IE="50"
+     maxIE="90"/>
+<tmp elem="Customer approval service"
+     type="BusinessService"
+     IE="50"
+     maxIE="90"/>
+<tmp elem="Customer risk assessment service"
+     type="BusinessService"
+     IE="50"
+     maxIE="90"/>
+<tmp elem="Delivery service"
+     type="BusinessService"
+     IE="50"
+     maxIE="90"/>
+<tmp elem="Develop contract service"
+     type="BusinessService"
+     IE="50"
+     maxIE="90"/>
+<tmp elem="Enterprise functional integration"
+     type="BusinessService"
+     IE="50"
+     maxIE="90"/>
+<tmp elem="HQ customer assessment service"
+     type="BusinessService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Invoicing service"
+     type="BusinessService"
+     IE="50"
+     maxIE="90"/>
+<tmp elem="Metal Products and Services"
+     type="BusinessService"
+     IE="50"
+     maxIE="90"/>
+<tmp elem="Order information service"
+     type="BusinessService"
+     IE="50"
+     maxIE="90"/>
+<tmp elem="Order registration service"
+     type="BusinessService"
+     IE="50"
+     maxIE="90"/>
+<tmp elem="LAN" type="CommunicationNetwork" IE="5" maxIE="90"/>
+<tmp elem="ACKNOWLEDGE" type="DataObject" IE="13.5" maxIE="90"/>
+<tmp elem="ACKNOWLEDGE - ACCEPTED"
+     type="DataObject"
+     IE="18"
+     maxIE="90"/>
+<tmp elem="CANCEL" type="DataObject" IE="9" maxIE="90"/>
+<tmp elem="CHANGE" type="DataObject" IE="9" maxIE="90"/>
+<tmp elem="CONFIRM" type="DataObject" IE="9" maxIE="90"/>
+<tmp elem="CRM database" type="DataObject" IE="3" maxIE="90"/>
+<tmp elem="Change made" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="Change requested" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="Data object" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="Data object (10)" type="DataObject" IE="18" maxIE="90"/>
+<tmp elem="Data object (2)" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="Data object (3)" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="Data object (4)" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="Data object (5)" type="DataObject" IE="18" maxIE="90"/>
+<tmp elem="Data object (7)" type="DataObject" IE="18" maxIE="90"/>
+<tmp elem="Data object (8)" type="DataObject" IE="18" maxIE="90"/>
+<tmp elem="Data object (9)" type="DataObject" IE="18" maxIE="90"/>
+<tmp elem="GET" type="DataObject" IE="13.5" maxIE="90"/>
+<tmp elem="New equipment ID" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="New equipment requested"
+     type="DataObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="New schedule" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="New schedule ID" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="PROCESS" type="DataObject" IE="15" maxIE="90"/>
+<tmp elem="PUBLISH message" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="PULL message" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="PUSH message" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="Production schedule revision"
+     type="DataObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production schedule revision confirmation"
+     type="DataObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="RESPOND" type="DataObject" IE="13.5" maxIE="90"/>
+<tmp elem="Resource actual" type="DataObject" IE="15" maxIE="90"/>
+<tmp elem="Resource actual property"
+     type="DataObject"
+     IE="3"
+     maxIE="90"/>
+<tmp elem="Resource capability" type="DataObject" IE="21" maxIE="90"/>
+<tmp elem="Resource capability property"
+     type="DataObject"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Resource requirement"
+     type="DataObject"
+     IE="15"
+     maxIE="90"/>
+<tmp elem="Resource requirement property"
+     type="DataObject"
+     IE="3"
+     maxIE="90"/>
+<tmp elem="Resource segment capability"
+     type="DataObject"
+     IE="15"
+     maxIE="90"/>
+<tmp elem="Resource segment capability property"
+     type="DataObject"
+     IE="3"
+     maxIE="90"/>
+<tmp elem="Resource specification"
+     type="DataObject"
+     IE="15"
+     maxIE="90"/>
+<tmp elem="Resource specification property"
+     type="DataObject"
+     IE="3"
+     maxIE="90"/>
+<tmp elem="SHOW" type="DataObject" IE="13.5" maxIE="90"/>
+<tmp elem="SYNC ADD" type="DataObject" IE="9" maxIE="90"/>
+<tmp elem="SYNC CHANGE" type="DataObject" IE="13.5" maxIE="90"/>
+<tmp elem="SYNC DELETE" type="DataObject" IE="9" maxIE="90"/>
+<tmp elem="Status" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="Status requested" type="DataObject" IE="0" maxIE="90"/>
+<tmp elem="Verb: CONFIRM" type="DataObject" IE="22.5" maxIE="90"/>
+<tmp elem="Verb: SYNC CHANGE" type="DataObject" IE="22.5" maxIE="90"/>
+<tmp elem="Deployed CRM application"
+     type="Deliverable"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Deployed Customer order monitoring application"
+     type="Deliverable"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Deployed hardware" type="Deliverable" IE="6" maxIE="90"/>
+<tmp elem="Redesigned business processes"
+     type="Deliverable"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Redeveloped application interfaces"
+     type="Deliverable"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Revised business processes"
+     type="Deliverable"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Hardware" type="Device" IE="0" maxIE="90"/>
+<tmp elem="Hardware device" type="Device" IE="0" maxIE="90"/>
+<tmp elem="Server" type="Device" IE="30" maxIE="90"/>
+<tmp elem="Business performance" type="Driver" IE="1" maxIE="90"/>
+<tmp elem="Complete and correct order fullfilment"
+     type="Driver"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Customer satisfaction" type="Driver" IE="4.5" maxIE="90"/>
+<tmp elem="On-time delivery" type="Driver" IE="1" maxIE="90"/>
+<tmp elem="Service quality" type="Driver" IE="1" maxIE="90"/>
+<tmp elem="Timely order fulfilment" type="Driver" IE="1" maxIE="90"/>
+<tmp elem="Gap Baseline - Transition architecture"
+     type="Gap"
+     IE="1"
+     maxIE="90"/>
+<tmp elem="Gap transition architecture - Target architecture"
+     type="Gap"
+     IE="1"
+     maxIE="90"/>
+<tmp elem="Business Goal" type="Goal" IE="0" maxIE="90"/>
+<tmp elem="Complete building" type="Goal" IE="4.5" maxIE="90"/>
+<tmp elem="Customer Retention" type="Goal" IE="0" maxIE="90"/>
+<tmp elem="IT Goal" type="Goal" IE="0" maxIE="90"/>
+<tmp elem="Improve Profitability" type="Goal" IE="0" maxIE="90"/>
+<tmp elem="Improve client profiling" type="Goal" IE="0" maxIE="90"/>
+<tmp elem="Improve customer relationship management"
+     type="Goal"
+     IE="1"
+     maxIE="90"/>
+<tmp elem="Improve marketing/service strategy"
+     type="Goal"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Increase coordination between sales and production processes"
+     type="Goal"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Increase data transparency" type="Goal" IE="0" maxIE="90"/>
+<tmp elem="Increase sales processes coordination"
+     type="Goal"
+     IE="1"
+     maxIE="90"/>
+<tmp elem="Innovate customer services" type="Goal" IE="1" maxIE="90"/>
+<tmp elem="Manufacture beams" type="Goal" IE="1" maxIE="90"/>
+<tmp elem="Maximization of average revenue per customer"
+     type="Goal"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Obtain beams" type="Goal" IE="1" maxIE="90"/>
+<tmp elem="Optimize order handling" type="Goal" IE="1" maxIE="90"/>
+<tmp elem="Optimize processes" type="Goal" IE="0" maxIE="90"/>
+<tmp elem="Actors" type="Grouping" IE="0" maxIE="90"/>
+<tmp elem="Actual Level 2
+1
+0 activities"
+     type="Grouping"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Applications" type="Grouping" IE="0" maxIE="90"/>
+<tmp elem="Business processes" type="Grouping" IE="0" maxIE="90"/>
+<tmp elem="Distribution center" type="Grouping" IE="0" maxIE="90"/>
+<tmp elem="External business services"
+     type="Grouping"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="HQ" type="Grouping" IE="0" maxIE="90"/>
+<tmp elem="Instructions from ERP System"
+     type="Grouping"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Internal business services"
+     type="Grouping"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Level 3: Manufacturing Operations &amp; Control"
+     type="Grouping"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Level 4: Business Planning and Logistics"
+     type="Grouping"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production center" type="Grouping" IE="0" maxIE="90"/>
+<tmp elem="Responses from MES" type="Grouping" IE="0" maxIE="90"/>
+<tmp elem="Typical focus of Level 3 activities"
+     type="Grouping"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Typical focus of Level 4 activities"
+     type="Grouping"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Area" type="Location" IE="9" maxIE="90"/>
+<tmp elem="Process cell" type="Location" IE="8" maxIE="90"/>
+<tmp elem="Production line" type="Location" IE="8" maxIE="90"/>
+<tmp elem="Production unit" type="Location" IE="7" maxIE="90"/>
+<tmp elem="Site" type="Location" IE="7" maxIE="90"/>
+<tmp elem="Unit" type="Location" IE="7" maxIE="90"/>
+<tmp elem="Work cell" type="Location" IE="7" maxIE="90"/>
+<tmp elem="Application server" type="Node" IE="0" maxIE="90"/>
+<tmp elem="Mainframe" type="Node" IE="36" maxIE="90"/>
+<tmp elem="Partition 1" type="Node" IE="45" maxIE="90"/>
+<tmp elem="Partition 2" type="Node" IE="45" maxIE="90"/>
+<tmp elem="Process cell controller" type="Node" IE="0" maxIE="90"/>
+<tmp elem="Process cell unit controller"
+     type="Node"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Production line controller" type="Node" IE="0" maxIE="90"/>
+<tmp elem="Production unit controller" type="Node" IE="0" maxIE="90"/>
+<tmp elem="UNIX Servers"
+     type="Node"
+     IE="41.666666666666666665"
+     maxIE="90"/>
+<tmp elem="Work cell controller" type="Node" IE="0" maxIE="90"/>
+<tmp elem="Baseline 2013" type="Plateau" IE="1.5" maxIE="90"/>
+<tmp elem="Current state" type="Plateau" IE="2" maxIE="90"/>
+<tmp elem="Target architecture 2015"
+     type="Plateau"
+     IE="8"
+     maxIE="90"/>
+<tmp elem="Target state" type="Plateau" IE="8" maxIE="90"/>
+<tmp elem="Transition architecture2014"
+     type="Plateau"
+     IE="3.666666666666666667"
+     maxIE="90"/>
+<tmp elem="Transition state" type="Plateau" IE="6.8" maxIE="90"/>
+<tmp elem="Contract" type="Representation" IE="24" maxIE="90"/>
+<tmp elem="EDI" type="Representation" IE="24" maxIE="90"/>
+<tmp elem="Create innovative customer services"
+     type="Requirement"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Customer data integration and standardisation"
+     type="Requirement"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Enhance sales risk management"
+     type="Requirement"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Share unified customer data across sales processes"
+     type="Requirement"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Stop bulk-order system"
+     type="Requirement"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Unified customer order view company-wide"
+     type="Requirement"
+     IE="6"
+     maxIE="90"/>
+<tmp elem="Unified view of customer company-wide"
+     type="Requirement"
+     IE="6.571428571428571429"
+     maxIE="90"/>
+<tmp elem="Builder" type="Stakeholder" IE="1" maxIE="90"/>
+<tmp elem="Building products manufacturer"
+     type="Stakeholder"
+     IE="1"
+     maxIE="90"/>
+<tmp elem="Management" type="Stakeholder" IE="1" maxIE="90"/>
+<tmp elem="Stakeholder" type="Stakeholder" IE="0" maxIE="90"/>
+<tmp elem="AIX" type="SystemSoftware" IE="0" maxIE="90"/>
+<tmp elem="DBMS" type="SystemSoftware" IE="0" maxIE="90"/>
+<tmp elem="Message Queuing" type="SystemSoftware" IE="0" maxIE="90"/>
+<tmp elem="Operating system" type="SystemSoftware" IE="0" maxIE="90"/>
+<tmp elem="Authentication &amp; Authorization"
+     type="TechnologyFunction"
+     IE="48"
+     maxIE="90"/>
+<tmp elem="Database service"
+     type="TechnologyService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Language service"
+     type="TechnologyService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Messaging service"
+     type="TechnologyService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Network service"
+     type="TechnologyService"
+     IE="0"
+     maxIE="90"/>
+<tmp elem="Business Transformation Project"
+     type="WorkPackage"
+     IE="42"
+     maxIE="90"/>
+<tmp elem="Business project" type="WorkPackage" IE="0" maxIE="90"/>
+<tmp elem="CRM project" type="WorkPackage" IE="42" maxIE="90"/>
+<tmp elem="CRM transformation" type="WorkPackage" IE="56" maxIE="90"/>
+<tmp elem="CRM transformation program"
+     type="WorkPackage"
+     IE="56"
+     maxIE="90"/>
+<tmp elem="Customer order monitoring project"
+     type="WorkPackage"
+     IE="42"
+     maxIE="90"/>
+<tmp elem="IT Development Project"
+     type="WorkPackage"
+     IE="42"
+     maxIE="90"/>
+<tmp elem="Project CRM system" type="WorkPackage" IE="42" maxIE="90"/>
+<tmp elem="Work package" type="WorkPackage" IE="0" maxIE="90"/>
+<tmp elem="Work package (2)" type="WorkPackage" IE="0" maxIE="90"/>
+	 

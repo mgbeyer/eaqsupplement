@@ -1,0 +1,156 @@
+<tmp elem="Application component" type="ApplicationComponent" id="id-11805"/>
+<tmp elem="CRM system" type="ApplicationComponent" id="id-11806"/>
+<tmp elem="CRM system" type="ApplicationComponent" id="id-11806"/>
+<tmp elem="CRM system" type="ApplicationComponent" id="id-11806"/>
+<tmp elem="Customer data management application" type="ApplicationComponent" id="id-11813"/>
+<tmp elem="Customer order monitoring application" type="ApplicationComponent" id="id-11812"/>
+<tmp elem="DC order management" type="ApplicationComponent" id="id-11824"/>
+<tmp elem="Distributers invoicing" type="ApplicationComponent" id="id-11843"/>
+<tmp elem="Distributors management" type="ApplicationComponent" id="id-11818"/>
+<tmp elem="ERP" type="ApplicationComponent" id="id-11819"/>
+<tmp elem="Financial application" type="ApplicationComponent" id="id-11823"/>
+<tmp elem="Integrated customer-centric solution" type="ApplicationComponent" id="id-11831"/>
+<tmp elem="Invoicing application" type="ApplicationComponent" id="id-11816"/>
+<tmp elem="Order management application" type="ApplicationComponent" id="id-11815"/>
+<tmp elem="Shipping application" type="ApplicationComponent" id="id-11817"/>
+<tmp elem="CRM" type="ApplicationFunction" id="id-11906"/>
+<tmp elem="Control application functions" type="ApplicationFunction" id="id-11887"/>
+<tmp elem="Enterprise application functions" type="ApplicationFunction" id="id-11886"/>
+<tmp elem="Enterprise-control application interface" type="ApplicationInterface" id="id-11849"/>
+<tmp elem="Enterprise-control application interface" type="ApplicationInterface" id="id-11849"/>
+<tmp elem="Enterprise-control application interface" type="ApplicationInterface" id="id-11849"/>
+<tmp elem="Application service" type="ApplicationService" id="id-11850"/>
+<tmp elem="CRM" type="ApplicationService" id="id-11870"/>
+<tmp elem="Contract creation service" type="ApplicationService" id="id-11875"/>
+<tmp elem="Control application Integration" type="ApplicationService" id="id-11880"/>
+<tmp elem="Control application Integration" type="ApplicationService" id="id-11880"/>
+<tmp elem="Customer credit analysis service" type="ApplicationService" id="id-11884"/>
+<tmp elem="Customer information service" type="ApplicationService" id="id-11853"/>
+<tmp elem="Customer order administration service" type="ApplicationService" id="id-11852"/>
+<tmp elem="Enterprise application integration" type="ApplicationService" id="id-11879"/>
+<tmp elem="Enterprise application integration" type="ApplicationService" id="id-11879"/>
+<tmp elem="Order administration service" type="ApplicationService" id="id-11873"/>
+<tmp elem="Order administration service" type="ApplicationService" id="id-11873"/>
+<tmp elem="Product availability consultation" type="ApplicationService" id="id-11881"/>
+<tmp elem="Production order creation service" type="ApplicationService" id="id-11861"/>
+<tmp elem="Shipping order creation service" type="ApplicationService" id="id-11855"/>
+<tmp elem="Total customer debt information service" type="ApplicationService" id="id-11871"/>
+<tmp elem="Verify customer exposure service" type="ApplicationService" id="id-11872"/>
+<tmp elem="Verify customer exposure service" type="ApplicationService" id="id-11872"/>
+<tmp elem="ArchiMetal" type="BusinessActor" id="id-11446"/>
+<tmp elem="ArchiMetal" type="BusinessActor" id="id-11446"/>
+<tmp elem="Business actor (4)" type="BusinessActor" id="id-11440"/>
+<tmp elem="Customer" type="BusinessActor" id="id-11462"/>
+<tmp elem="DC Benelux" type="BusinessActor" id="id-11454"/>
+<tmp elem="DC Benelux" type="BusinessActor" id="id-11454"/>
+<tmp elem="HQ" type="BusinessActor" id="id-11458"/>
+<tmp elem="Head of manufacturing" type="BusinessActor" id="id-11438"/>
+<tmp elem="Head of sales" type="BusinessActor" id="id-11439"/>
+<tmp elem="Logistics planner" type="BusinessActor" id="id-11442"/>
+<tmp elem="Manufacturing engineer" type="BusinessActor" id="id-11443"/>
+<tmp elem="Manufacturing planner" type="BusinessActor" id="id-11441"/>
+<tmp elem="Production center" type="BusinessActor" id="id-11449"/>
+<tmp elem="Transportation company" type="BusinessActor" id="id-11444"/>
+<tmp elem="Commercial" type="BusinessFunction" id="id-11487"/>
+<tmp elem="Control: Maintenance Management" type="BusinessFunction" id="id-11531"/>
+<tmp elem="Control: Manufacturing Operations &amp; Control business functions" type="BusinessFunction" id="id-11537"/>
+<tmp elem="Control: Material and Energy Control" type="BusinessFunction" id="id-11532"/>
+<tmp elem="Control: Product Inventory Control" type="BusinessFunction" id="id-11534"/>
+<tmp elem="Control: Production Scheduling (Local)" type="BusinessFunction" id="id-11535"/>
+<tmp elem="Control: quality assurance" type="BusinessFunction" id="id-11530"/>
+<tmp elem="Customer relationship management" type="BusinessFunction" id="id-11486"/>
+<tmp elem="Enterprise: Business Planning &amp; Logistics business functions" type="BusinessFunction" id="id-11516"/>
+<tmp elem="Enterprise: Customer Service" type="BusinessFunction" id="id-11520"/>
+<tmp elem="Enterprise: Customer Service" type="BusinessFunction" id="id-11520"/>
+<tmp elem="Enterprise: Marketing &amp; Sales" type="BusinessFunction" id="id-11519"/>
+<tmp elem="Enterprise: Order Processing" type="BusinessFunction" id="id-11527"/>
+<tmp elem="Enterprise: Procurement" type="BusinessFunction" id="id-11522"/>
+<tmp elem="Enterprise: Product Cost Accounting" type="BusinessFunction" id="id-11528"/>
+<tmp elem="Enterprise: Product Shipping Admin" type="BusinessFunction" id="id-11529"/>
+<tmp elem="Finance" type="BusinessFunction" id="id-11485"/>
+<tmp elem="Logistics" type="BusinessFunction" id="id-11488"/>
+<tmp elem="Production" type="BusinessFunction" id="id-11491"/>
+<tmp elem="Sales" type="BusinessFunction" id="id-11517"/>
+<tmp elem="Enterprise-control functional interface" type="BusinessInterface" id="id-11484"/>
+<tmp elem="Enterprise-control functional interface" type="BusinessInterface" id="id-11484"/>
+<tmp elem="Enterprise-control functional interface" type="BusinessInterface" id="id-11484"/>
+<tmp elem="Accepted proposal" type="BusinessObject" id="id-11587"/>
+<tmp elem="Change order" type="BusinessObject" id="id-11580"/>
+<tmp elem="Distributor data" type="BusinessObject" id="id-11560"/>
+<tmp elem="Business process" type="BusinessProcess" id="id-11679"/>
+<tmp elem="Business process 1" type="BusinessProcess" id="id-11651"/>
+<tmp elem="Business process 2" type="BusinessProcess" id="id-11652"/>
+<tmp elem="Develop approved proposal" type="BusinessProcess" id="id-11654"/>
+<tmp elem="Evaluate credit" type="BusinessProcess" id="id-11639"/>
+<tmp elem="Plan manufacturing" type="BusinessProcess" id="id-11638"/>
+<tmp elem="Prepare production line" type="BusinessProcess" id="id-11650"/>
+<tmp elem="Present proposal" type="BusinessProcess" id="id-11640"/>
+<tmp elem="Process DC order" type="BusinessProcess" id="id-11625"/>
+<tmp elem="Process DC order" type="BusinessProcess" id="id-11625"/>
+<tmp elem="Process DC order" type="BusinessProcess" id="id-11625"/>
+<tmp elem="Reprice old order" type="BusinessProcess" id="id-11649"/>
+<tmp elem="Account manager" type="BusinessRole" id="id-11474"/>
+<tmp elem="Customer" type="BusinessRole" id="id-11468"/>
+<tmp elem="DC Benelux" type="BusinessRole" id="id-11466"/>
+<tmp elem="DC Benelux" type="BusinessRole" id="id-11466"/>
+<tmp elem="DC Benelux" type="BusinessRole" id="id-11466"/>
+<tmp elem="DC Benelux" type="BusinessRole" id="id-11466"/>
+<tmp elem="DC Benelux" type="BusinessRole" id="id-11466"/>
+<tmp elem="Distribution center" type="BusinessRole" id="id-11471"/>
+<tmp elem="HQ" type="BusinessRole" id="id-11465"/>
+<tmp elem="HQ" type="BusinessRole" id="id-11465"/>
+<tmp elem="HQ" type="BusinessRole" id="id-11465"/>
+<tmp elem="PC" type="BusinessRole" id="id-11470"/>
+<tmp elem="PC" type="BusinessRole" id="id-11470"/>
+<tmp elem="Production center" type="BusinessRole" id="id-11467"/>
+<tmp elem="Production center" type="BusinessRole" id="id-11467"/>
+<tmp elem="Production manager" type="BusinessRole" id="id-11479"/>
+<tmp elem="Proposal specialist" type="BusinessRole" id="id-11475"/>
+<tmp elem="Sales manager" type="BusinessRole" id="id-11476"/>
+<tmp elem="Business service" type="BusinessService" id="id-11700"/>
+<tmp elem="Business service" type="BusinessService" id="id-11700"/>
+<tmp elem="Control functional integration" type="BusinessService" id="id-11702"/>
+<tmp elem="Control functional integration" type="BusinessService" id="id-11702"/>
+<tmp elem="Enterprise functional integration" type="BusinessService" id="id-11701"/>
+<tmp elem="Enterprise functional integration" type="BusinessService" id="id-11701"/>
+<tmp elem="HQ customer assessment service" type="BusinessService" id="id-11697"/>
+<tmp elem="Order information service" type="BusinessService" id="id-11699"/>
+<tmp elem="Order information service" type="BusinessService" id="id-11699"/>
+<tmp elem="Order registration service" type="BusinessService" id="id-11691"/>
+<tmp elem="Order registration service" type="BusinessService" id="id-11691"/>
+<tmp elem="Order registration service" type="BusinessService" id="id-11691"/>
+<tmp elem="ACKNOWLEDGE" type="DataObject" id="id-11928"/>
+<tmp elem="CANCEL" type="DataObject" id="id-11929"/>
+<tmp elem="CHANGE" type="DataObject" id="id-11930"/>
+<tmp elem="CONFIRM" type="DataObject" id="id-11931"/>
+<tmp elem="Data object" type="DataObject" id="id-11957"/>
+<tmp elem="Data object (2)" type="DataObject" id="id-11958"/>
+<tmp elem="Data object (3)" type="DataObject" id="id-11959"/>
+<tmp elem="Data object (4)" type="DataObject" id="id-11960"/>
+<tmp elem="GET" type="DataObject" id="id-11932"/>
+<tmp elem="PROCESS" type="DataObject" id="id-11933"/>
+<tmp elem="PUBLISH message" type="DataObject" id="id-11941"/>
+<tmp elem="PULL message" type="DataObject" id="id-11940"/>
+<tmp elem="PUSH message" type="DataObject" id="id-11939"/>
+<tmp elem="RESPOND" type="DataObject" id="id-11934"/>
+<tmp elem="SHOW" type="DataObject" id="id-11935"/>
+<tmp elem="SYNC ADD" type="DataObject" id="id-11936"/>
+<tmp elem="SYNC CHANGE" type="DataObject" id="id-11937"/>
+<tmp elem="SYNC DELETE" type="DataObject" id="id-11938"/>
+<tmp elem="Verb: CONFIRM" type="DataObject" id="id-11961"/>
+<tmp elem="Verb: SYNC CHANGE" type="DataObject" id="id-11926"/>
+<tmp elem="Deployed CRM application" type="Deliverable" id="id-11791"/>
+<tmp elem="Deployed hardware" type="Deliverable" id="id-11793"/>
+<tmp elem="Redeveloped application interfaces" type="Deliverable" id="id-11792"/>
+<tmp elem="Revised business processes" type="Deliverable" id="id-11794"/>
+<tmp elem="Server" type="Device" id="id-11717"/>
+<tmp elem="Business Goal" type="Goal" id="id-11733"/>
+<tmp elem="Customer Retention" type="Goal" id="id-11756"/>
+<tmp elem="IT Goal" type="Goal" id="id-11776"/>
+<tmp elem="Improve Profitability" type="Goal" id="id-11755"/>
+<tmp elem="Production unit" type="Location" id="id-11707"/>
+<tmp elem="Business Transformation Project" type="WorkPackage" id="id-11789"/>
+<tmp elem="Business Transformation Project" type="WorkPackage" id="id-11789"/>
+<tmp elem="IT Development Project" type="WorkPackage" id="id-11790"/>
+<tmp elem="IT Development Project" type="WorkPackage" id="id-11790"/>
+<tmp elem="Project CRM system" type="WorkPackage" id="id-11781"/>

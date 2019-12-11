@@ -1,0 +1,20 @@
+04. Enterprise business function usage of CRM application functions
+1
+05. Equipment hierarchy
+0.333333333333333333
+Business functions
+0.428571428571428571
+Business functions_new
+0.423076923076923077
+CRM structure_new
+0.285714285714285714
+Cust. services
+0.333333333333333333
+Infrastructure view
+0.588235294117647059
+New Order Message Flow
+0.076923076923076923
+Vision
+0.090909090909090909
+
+avg. ca. 04

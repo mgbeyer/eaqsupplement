@@ -1,0 +1,68 @@
+<tmp elem="AJ2" type="AndJunction" id="id-14406"/>
+<tmp elem="AJ1" type="AndJunction" id="id-14407"/>
+<tmp elem="Infrastructure" type="ApplicationFunction" id="id-11908"/>
+<tmp elem="Foundational" type="ApplicationFunction" id="id-11922"/>
+<tmp elem="Deployment" type="ApplicationFunction" id="id-11923"/>
+<tmp elem="Application service (2)" type="ApplicationService" id="id-11876"/>
+<tmp elem="Application service (3)" type="ApplicationService" id="id-11878"/>
+<tmp elem="Too many late order fullfilments" type="Assessment" id="id-11747"/>
+<tmp elem="No sales forecasing and customer history analysis possible" type="Assessment" id="id-11754"/>
+<tmp elem="Assessment" type="Assessment" id="id-11763"/>
+<tmp elem="Marketing" type="BusinessActor" id="id-11421"/>
+<tmp elem="Sales manager" type="BusinessActor" id="id-11422"/>
+<tmp elem="Sales professional" type="BusinessActor" id="id-11423"/>
+<tmp elem="Service professional" type="BusinessActor" id="id-11424"/>
+<tmp elem="Business intelligence analysi" type="BusinessActor" id="id-11425"/>
+<tmp elem="Contact center agent" type="BusinessActor" id="id-11426"/>
+<tmp elem="Contact" type="BusinessActor" id="id-11429"/>
+<tmp elem="Lead" type="BusinessActor" id="id-11430"/>
+<tmp elem="Opportunity" type="BusinessActor" id="id-11431"/>
+<tmp elem="Business actor" type="BusinessActor" id="id-11432"/>
+<tmp elem="Supplier" type="BusinessActor" id="id-11433"/>
+<tmp elem="Logistics Partner" type="BusinessActor" id="id-11434"/>
+<tmp elem="Customer Contact" type="BusinessActor" id="id-11463"/>
+<tmp elem="Credit" type="BusinessActor" id="id-11464"/>
+<tmp elem="ABC1" type="BusinessCollaboration" id="id-14409"/>
+<tmp elem="Business function" type="BusinessFunction" id="id-11489"/>
+<tmp elem="Warehousing" type="BusinessFunction" id="id-11492"/>
+<tmp elem="Credit" type="BusinessFunction" id="id-11499"/>
+<tmp elem="Business function (2)" type="BusinessFunction" id="id-11500"/>
+<tmp elem="Business function (3)" type="BusinessFunction" id="id-11501"/>
+<tmp elem="Business function (4)" type="BusinessFunction" id="id-11502"/>
+<tmp elem="Business function (5)" type="BusinessFunction" id="id-11503"/>
+<tmp elem="Business object" type="BusinessObject" id="id-11571"/>
+<tmp elem="Customer" type="BusinessObject" id="id-11573"/>
+<tmp elem="Business object (2)" type="BusinessObject" id="id-11574"/>
+<tmp elem="Business object (3)" type="BusinessObject" id="id-11575"/>
+<tmp elem="Business object (4)" type="BusinessObject" id="id-11576"/>
+<tmp elem="Business object (5)" type="BusinessObject" id="id-11577"/>
+<tmp elem="Business object (7)" type="BusinessObject" id="id-11581"/>
+<tmp elem="Business object (6)" type="BusinessObject" id="id-11583"/>
+<tmp elem="ABO1" type="BusinessObject" id="id-14408"/>
+<tmp elem="Ask for customer risk assessment" type="BusinessProcess" id="id-11619"/>
+<tmp elem="Analyze" type="BusinessProcess" id="id-11635"/>
+<tmp elem="Complete" type="BusinessProcess" id="id-11636"/>
+<tmp elem="Approve" type="BusinessProcess" id="id-11637"/>
+<tmp elem="Business process (2)" type="BusinessProcess" id="id-11641"/>
+<tmp elem="Business process (3)" type="BusinessProcess" id="id-11642"/>
+<tmp elem="Ask for order risk assessment" type="BusinessProcess" id="id-11663"/>
+<tmp elem="Receive" type="BusinessProcess" id="id-11673"/>
+<tmp elem="Business role (3)" type="BusinessRole" id="id-11482"/>
+<tmp elem="Business role (4)" type="BusinessRole" id="id-11483"/>
+<tmp elem="Business service (2)" type="BusinessService" id="id-11695"/>
+<tmp elem="Data object (5)" type="DataObject" id="id-11943"/>
+<tmp elem="Data object (7)" type="DataObject" id="id-11945"/>
+<tmp elem="Data object (8)" type="DataObject" id="id-11946"/>
+<tmp elem="Data object (9)" type="DataObject" id="id-11947"/>
+<tmp elem="Data object (10)" type="DataObject" id="id-11948"/>
+<tmp elem="Hardware" type="Device" id="id-11722"/>
+<tmp elem="Timely order fulfilment" type="Driver" id="id-11746"/>
+<tmp elem="Complete and correct order fullfilment" type="Driver" id="id-11753"/>
+<tmp elem="Optimize processes" type="Goal" id="id-11759"/>
+<tmp elem="EDI" type="Representation" id="id-11610"/>
+<tmp elem="Stakeholder" type="Stakeholder" id="id-11777"/>
+<tmp elem="AIX" type="SystemSoftware" id="id-11726"/>
+<tmp elem="CRM transformation" type="WorkPackage" id="id-11782"/>
+<tmp elem="Business project" type="WorkPackage" id="id-11783"/>
+<tmp elem="Work package" type="WorkPackage" id="id-11784"/>
+<tmp elem="Work package (2)" type="WorkPackage" id="id-11785"/>

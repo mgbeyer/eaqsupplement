@@ -1,0 +1,6 @@
+<tmp type="BusinessService">
+  <element name="Customer approval service" id="id-11698"/>
+  <element name="HQ customer assessment service" id="id-11697"/>
+  <element name="Control functional integration" id="id-11702"/>
+  <element name="Enterprise functional integration" id="id-11701"/>
+</tmp>

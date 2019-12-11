@@ -1,0 +1,6 @@
+[serving_BA: 0,
+serving_AT: 1,
+serving_BT: 1,
+realization_AB: 0,
+realization_TA: 0,
+realization_TB: 1]

@@ -1,0 +1,71 @@
+<vals view="01. Functional enterprise-control model, id-15388" val="0.015661717425876578"/>
+<vals view="01. Stakeholder, id-13749" val="0.001881622214103033"/>
+<vals view="01.1 Summary functional enterprise-control model, id-15509" val="0.013835403726708075"/>
+<vals view="01.2 Enterprise functions, id-14066" val="0.013508055733247124"/>
+<vals view="01.3 Control functions, id-14012" val="0.010806689342403628"/>
+<vals view="02. Activity model of production operations management, id-15345" val="0"/>
+<vals view="02. Order-to-contract, id-13701" val="0.003790567813772377"/>
+<vals view="03. CRM functional model, id-15694" val="0.003361344537815126"/>
+<vals view="03. Order fulfillment, id-13671" val="0.001477832512315271"/>
+<vals view="04. Change in production schedule, id-13631" val="0.012527393980366474"/>
+<vals view="04. Enterprise business function usage of CRM application functions, id-15670" val="0.008250233426704015"/>
+<vals view="05. Equipment hierarchy, id-15624" val="0.003759398496240602"/>
+<vals view="05. ISA-95 messages exchanged, id-13580" val="0.002521008403361345"/>
+<vals view="06. Message verbs by transaction models, id-14170" val="0.002521008403361345"/>
+<vals view="07. Object model summary, id-14111" val="0"/>
+<vals view="08. ArchiMate generic example, id-15383" val="0.004761904761904762"/>
+<vals view="Actor cooperation view for Enterprise-control application interface, id-12776" val="0.011496598639455782"/>
+<vals view="Actor cooperation view for Enterprise-control functional interface, id-12784" val="0.010800865800865801"/>
+<vals view="Application architecture, id-13443" val="0.017776144263285087"/>
+<vals view="Application architecture_new_1, id-12350" val="0.02250721117708566"/>
+<vals view="Architecture vision, id-15784" val="0.024548224830751635"/>
+<vals view="Business functions, id-12982" val="0.026196464795843678"/>
+<vals view="Business functions_new, id-12427" val="0.013505851669116975"/>
+<vals view="Business performance - solutions, id-12716" val="0.020550488099749183"/>
+<vals view="CRM behavior_new_1, id-14410" val="0.011733978832607758"/>
+<vals view="CRM behavior_new_2, id-14559" val="0.01351475214058142"/>
+<vals view="CRM behavior_new_3, id-12192" val="0.000892857142857143"/>
+<vals view="CRM behavior_new_4, id-12190" val="0.000892857142857143"/>
+<vals view="CRM implementation and migration, id-14858" val="0.018387944982515514"/>
+<vals view="CRM structure_new, id-12322" val="0.02465499656840541"/>
+<vals view="Compare Approaches, id-15340" val="0.000595238095238095"/>
+<vals view="Contracting, id-13537" val="0.042854491563525177"/>
+<vals view="Contracting_IT, id-13407" val="0.026907230557471122"/>
+<vals view="Contracting_new, id-11976" val="0.047146614447139774"/>
+<vals view="Contracting_new_IT, id-12032" val="0.036191426956208099"/>
+<vals view="Cust. services, id-13220" val="0.058936830545944443"/>
+<vals view="Cust. services_new, id-12163" val="0.052171229852083974"/>
+<vals view="Cust. services_new, id-12123" val="0.06536783576113656"/>
+<vals view="Customer satisfaction focus - solutions, id-12825" val="0.022280994304136868"/>
+<vals view="Evaluate credit risk, id-13122" val="0.031176647763573347"/>
+<vals view="Evaluate credit risk_new, id-12075" val="0.023135766235145117"/>
+<vals view="Functional enterprise-control model, id-13899" val="0.020008693859625537"/>
+<vals view="Gap analysis and roadmaps, id-15734" val="0.013456817723065935"/>
+<vals view="Generic ArchiMate example, id-15864" val="0.004761904761904762"/>
+<vals view="Inform customer, id-12954" val="0.027113432050908138"/>
+<vals view="Infrastructure view, id-14337" val="0"/>
+<vals view="Landscape view, id-12793" val="0.022958309461606776"/>
+<vals view="Layered view, id-14760" val="0.048872041501653056"/>
+<vals view="Motivation - Customer satisfaction focus, id-12868" val="0.020237975532093179"/>
+<vals view="Motivation - business performance focus, id-12896" val="0.017240904458949572"/>
+<vals view="New Order Message Flow, id-13780" val="0.008882803088617172"/>
+<vals view="Org. structure_new, id-12480" val="0.023032019073851268"/>
+<vals view="Organisation dpts, id-13017" val="0.023366580742890555"/>
+<vals view="Process DC orders, id-13256" val="0.01817584991498035"/>
+<vals view="Process DCorders_IT, id-13485" val="0.020849724729886049"/>
+<vals view="Process customer order_new, id-14476" val="0.020676810782722113"/>
+<vals view="Process customer order_new_IT, id-14432" val="0.029028270536157451"/>
+<vals view="Processes Interdependencies, id-13171" val="0.064037779086462394"/>
+<vals view="Processes interdependencies, id-12614" val="0.063936217464957186"/>
+<vals view="Register order, id-13084" val="0.045778641698322372"/>
+<vals view="Register order_IT, id-13366" val="0.029912235311882263"/>
+<vals view="Register order_new, id-12386" val="0.048401602017697399"/>
+<vals view="Register order_new_IT, id-14512" val="0.038937190414020412"/>
+<vals view="Total view for Controller, id-14819" val="0.00075187969924812"/>
+<vals view="Total view for Process cell controller, id-15892" val="0.001503759398496241"/>
+<vals view="Total view for Production line controller, id-14815" val="0.001503759398496241"/>
+<vals view="Track customer order_new_IT, id-14724" val="0.027324510617013593"/>
+<vals view="Transmit orders to PC, id-13293" val="0.016512938549292221"/>
+<vals view="Transmit orders_IT_all, id-13318" val="0.025868406159706972"/>
+<vals view="Verify total exposure, id-14920" val="0.02669643343426945"/>
+<vals view="Vision, id-12507" val="0.007161894243580758"/>

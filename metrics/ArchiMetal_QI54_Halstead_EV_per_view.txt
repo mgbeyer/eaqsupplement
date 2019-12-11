@@ -1,0 +1,72 @@
+<tmp view="01. Functional enterprise-control model" id="id-15388" EVmin="4.706731240439551"/>
+<tmp view="01. Stakeholder" id="id-13749" EVmin="0.46743122984213986"/>
+<tmp view="01.1 Summary functional enterprise-control model" id="id-15509" EVmin="0"/>
+<tmp view="01.2 Enterprise functions" id="id-14066" EVmin="1.3325742227201611"/>
+<tmp view="01.3 Control functions" id="id-14012" EVmin="0.23654564621040922"/>
+<tmp view="02. Activity model of production operations management" id="id-15345" EVmin="2.7616244563164076"/>
+<tmp view="02. Order-to-contract" id="id-13701" EVmin="11.165299723593273"/>
+<tmp view="03. CRM functional model" id="id-15694" EVmin="1.573608712120098"/>
+<tmp view="03. Order fulfillment" id="id-13671" EVmin="1.753239827857219"/>
+<tmp view="04. Change in production schedule" id="id-13631" EVmin="0.7470352197427259"/>
+<tmp view="04. Enterprise business function usage of CRM application functions" id="id-15670" EVmin="0"/>
+<tmp view="05. Equipment hierarchy" id="id-15624" EVmin="3.2242333625363937"/>
+<tmp view="05. ISA-95 messages exchanged" id="id-13580" EVmin="5.381249903682965"/>
+<tmp view="06. Message verbs by transaction models" id="id-14170" EVmin="0"/>
+<tmp view="07. Object model summary" id="id-14111" EVmin="14.87477820074039"/>
+<tmp view="08. ArchiMate generic example" id="id-15383" EVmin="0"/>
+<tmp view="Actor cooperation view for Enterprise-control application interface" id="id-12776" EVmin="0"/>
+<tmp view="Actor cooperation view for Enterprise-control functional interface" id="id-12784" EVmin="0"/>
+<tmp view="Application architecture" id="id-13443" EVmin="1.8565601581035338"/>
+<tmp view="Application architecture_new_1" id="id-12350" EVmin="1.1838233732383618"/>
+<tmp view="Architecture vision" id="id-15784" EVmin="9.274529450101234"/>
+<tmp view="Background and use of standards/reference models" id="id-14292" EVmin="0"/>
+<tmp view="Business functions" id="id-12982" EVmin="0.6439958790885568"/>
+<tmp view="Business functions_new" id="id-12427" EVmin="0.9278615628084457"/>
+<tmp view="Business performance - solutions" id="id-12716" EVmin="6.268928386070529"/>
+<tmp view="CRM behavior_new_1" id="id-14410" EVmin="0.27920519152601764"/>
+<tmp view="CRM behavior_new_2" id="id-14559" EVmin="0.25382290138728875"/>
+<tmp view="CRM behavior_new_3" id="id-12192" EVmin="0"/>
+<tmp view="CRM behavior_new_4" id="id-12190" EVmin="0"/>
+<tmp view="CRM implementation and migration" id="id-14858" EVmin="2.6768255567735086"/>
+<tmp view="CRM structure_new" id="id-12322" EVmin="0.9227578041353784"/>
+<tmp view="Compare Approaches" id="id-15340" EVmin="0"/>
+<tmp view="Contracting" id="id-13537" EVmin="3.2696907459561424"/>
+<tmp view="Contracting_IT" id="id-13407" EVmin="1.9281393203263828"/>
+<tmp view="Contracting_new" id="id-11976" EVmin="11.520199914339484"/>
+<tmp view="Contracting_new_IT" id="id-12032" EVmin="3.4373240658227955"/>
+<tmp view="Cust. services" id="id-13220" EVmin="1.1351648463893769"/>
+<tmp view="Cust. services_new" id="id-12163" EVmin="0.8771728358463368"/>
+<tmp view="Cust. services_new" id="id-12123" EVmin="3.223927072552681"/>
+<tmp view="Customer satisfaction focus - solutions" id="id-12825" EVmin="1.2094845332889785"/>
+<tmp view="Evaluate credit risk" id="id-13122" EVmin="4.960565101468901"/>
+<tmp view="Evaluate credit risk_new" id="id-12075" EVmin="1.2841721203891174"/>
+<tmp view="Functional enterprise-control model" id="id-13899" EVmin="0.7126772790493955"/>
+<tmp view="Gap analysis and roadmaps" id="id-15734" EVmin="1.1673452091223715"/>
+<tmp view="Generic ArchiMate example" id="id-15864" EVmin="0"/>
+<tmp view="Inform customer" id="id-12954" EVmin="1.5795394381465622"/>
+<tmp view="Infrastructure view" id="id-14337" EVmin="1.2112670089229838"/>
+<tmp view="Landscape view" id="id-12793" EVmin="0"/>
+<tmp view="Layered view" id="id-14760" EVmin="2.01125693820078"/>
+<tmp view="Motivation - Customer satisfaction focus" id="id-12868" EVmin="0.6002097054654745"/>
+<tmp view="Motivation - business performance focus" id="id-12896" EVmin="0.4707567315372598"/>
+<tmp view="New Order Message Flow" id="id-13780" EVmin="31.242313978840173"/>
+<tmp view="Org. structure_new" id="id-12480" EVmin="0"/>
+<tmp view="Organisation dpts" id="id-13017" EVmin="0"/>
+<tmp view="Process DC orders" id="id-13256" EVmin="1.6811774768460308"/>
+<tmp view="Process DCorders_IT" id="id-13485" EVmin="5.667769631210831"/>
+<tmp view="Process customer order_new" id="id-14476" EVmin="2.164911146139531"/>
+<tmp view="Process customer order_new_IT" id="id-14432" EVmin="2.1753562705558624"/>
+<tmp view="Processes Interdependencies" id="id-13171" EVmin="9.815596634338707"/>
+<tmp view="Processes interdependencies" id="id-12614" EVmin="10.31968042172161"/>
+<tmp view="Register order" id="id-13084" EVmin="2.0059876942223798"/>
+<tmp view="Register order_IT" id="id-13366" EVmin="3.7880207534230497"/>
+<tmp view="Register order_new" id="id-12386" EVmin="5.407670680501317"/>
+<tmp view="Register order_new_IT" id="id-14512" EVmin="1.4060209755633546"/>
+<tmp view="Total view for Controller" id="id-14819" EVmin="0"/>
+<tmp view="Total view for Process cell controller" id="id-15892" EVmin="0"/>
+<tmp view="Total view for Production line controller" id="id-14815" EVmin="0"/>
+<tmp view="Track customer order_new_IT" id="id-14724" EVmin="1.0981649693480315"/>
+<tmp view="Transmit orders to PC" id="id-13293" EVmin="0.6047422666444893"/>
+<tmp view="Transmit orders_IT_all" id="id-13318" EVmin="7.138201484729356"/>
+<tmp view="Verify total exposure" id="id-14920" EVmin="8.17448989182357"/>
+<tmp view="Vision" id="id-12507" EVmin="9.139914708171766"/>

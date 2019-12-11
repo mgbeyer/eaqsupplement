@@ -1,0 +1,17 @@
+<vals v2="Architecture vision, id-15784" v1="Business performance - solutions, id-12716" val="0.620689655172413793"/>
+<vals v2="Contracting, id-13537" v1="Contracting_new, id-11976" val="0.7"/>
+<vals v2="Contracting_IT, id-13407" v1="Contracting_new_IT, id-12032" val="0.733333333333333333"/>
+<vals v2="Cust. services, id-13220" v1="Cust. services_new, id-12163" val="0.6"/>
+<vals v2="Cust. services, id-13220" v1="Cust. services_new, id-12123" val="0.785714285714285714"/>
+<vals v2="Cust. services, id-13220" v1="Processes Interdependencies, id-13171" val="0.705882352941176471"/>
+<vals v2="Cust. services, id-13220" v1="Processes interdependencies, id-12614" val="0.588235294117647059"/>
+<vals v2="Cust. services_new, id-12123" v1="Cust. services_new, id-12163" val="0.5625"/>
+<vals v2="Cust. services_new, id-12163" v1="Processes Interdependencies, id-13171" val="0.526315789473684211"/>
+<vals v2="Cust. services_new, id-12123" v1="Processes Interdependencies, id-13171" val="0.666666666666666667"/>
+<vals v2="Cust. services_new, id-12163" v1="Processes interdependencies, id-12614" val="0.5"/>
+<vals v2="Cust. services_new, id-12123" v1="Processes interdependencies, id-12614" val="0.75"/>
+<vals v2="Customer satisfaction focus - solutions, id-12825" v1="Motivation - Customer satisfaction focus, id-12868" val="0.6"/>
+<vals v2="Evaluate credit risk, id-13122" v1="Evaluate credit risk_new, id-12075" val="0.555555555555555556"/>
+<vals v2="Org. structure_new, id-12480" v1="Organisation dpts, id-13017" val="0.941176470588235294"/>
+<vals v2="Processes Interdependencies, id-13171" v1="Processes interdependencies, id-12614" val="0.684210526315789474"/>
+<vals v2="Register order, id-13084" v1="Register order_new, id-12386" val="0.705882352941176471"/>

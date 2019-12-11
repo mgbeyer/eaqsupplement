@@ -1,0 +1,71 @@
+<tmp view="Layered view" id="id-14760" Eset="16" Oset="61" RFVraw="77"/>
+<tmp view="Register order_new_IT" id="id-14512" Eset="16" Oset="54" RFVraw="70"/>
+<tmp view="Process customer order_new_IT" id="id-14432" Eset="16" Oset="50" RFVraw="66"/>
+<tmp view="New Order Message Flow" id="id-13780" Eset="45" Oset="20" RFVraw="65"/>
+<tmp view="Register order_IT" id="id-13366" Eset="15" Oset="47" RFVraw="62"/>
+<tmp view="Register order_new" id="id-12386" Eset="15" Oset="46" RFVraw="61"/>
+<tmp view="Transmit orders_IT_all" id="id-13318" Eset="20" Oset="41" RFVraw="61"/>
+<tmp view="01. Functional enterprise-control model" id="id-15388" Eset="39" Oset="19" RFVraw="58"/>
+<tmp view="Register order" id="id-13084" Eset="14" Oset="44" RFVraw="58"/>
+<tmp view="Vision" id="id-12507" Eset="37" Oset="20" RFVraw="57"/>
+<tmp view="Contracting_new" id="id-11976" Eset="19" Oset="38" RFVraw="57"/>
+<tmp view="Track customer order_new_IT" id="id-14724" Eset="12" Oset="43" RFVraw="55"/>
+<tmp view="Landscape view" id="id-12793" Eset="18" Oset="35" RFVraw="53"/>
+<tmp view="Contracting" id="id-13537" Eset="15" Oset="37" RFVraw="52"/>
+<tmp view="CRM structure_new" id="id-12322" Eset="10" Oset="41" RFVraw="51"/>
+<tmp view="Contracting_new_IT" id="id-12032" Eset="14" Oset="36" RFVraw="50"/>
+<tmp view="Application architecture_new_1" id="id-12350" Eset="12" Oset="38" RFVraw="50"/>
+<tmp view="Verify total exposure" id="id-14920" Eset="15" Oset="33" RFVraw="48"/>
+<tmp view="CRM implementation and migration" id="id-14858" Eset="16" Oset="31" RFVraw="47"/>
+<tmp view="Application architecture" id="id-13443" Eset="16" Oset="31" RFVraw="47"/>
+<tmp view="Process DCorders_IT" id="id-13485" Eset="16" Oset="30" RFVraw="46"/>
+<tmp view="Processes interdependencies" id="id-12614" Eset="15" Oset="29" RFVraw="44"/>
+<tmp view="01.1 Summary functional enterprise-control model" id="id-15509" Eset="10" Oset="34" RFVraw="44"/>
+<tmp view="Inform customer" id="id-12954" Eset="9" Oset="34" RFVraw="43"/>
+<tmp view="Evaluate credit risk" id="id-13122" Eset="15" Oset="26" RFVraw="41"/>
+<tmp view="Processes Interdependencies" id="id-13171" Eset="17" Oset="24" RFVraw="41"/>
+<tmp view="Gap analysis and roadmaps" id="id-15734" Eset="15" Oset="26" RFVraw="41"/>
+<tmp view="Cust. services_new" id="id-12163" Eset="12" Oset="28" RFVraw="40"/>
+<tmp view="Functional enterprise-control model" id="id-13899" Eset="13" Oset="27" RFVraw="40"/>
+<tmp view="01.2 Enterprise functions" id="id-14066" Eset="14" Oset="25" RFVraw="39"/>
+<tmp view="Business functions" id="id-12982" Eset="13" Oset="23" RFVraw="36"/>
+<tmp view="Cust. services_new" id="id-12123" Eset="13" Oset="22" RFVraw="35"/>
+<tmp view="Process customer order_new" id="id-14476" Eset="13" Oset="21" RFVraw="34"/>
+<tmp view="Cust. services" id="id-13220" Eset="12" Oset="21" RFVraw="33"/>
+<tmp view="Evaluate credit risk_new" id="id-12075" Eset="13" Oset="20" RFVraw="33"/>
+<tmp view="Contracting_IT" id="id-13407" Eset="12" Oset="21" RFVraw="33"/>
+<tmp view="Architecture vision" id="id-15784" Eset="26" Oset="6" RFVraw="32"/>
+<tmp view="02. Order-to-contract" id="id-13701" Eset="22" Oset="9" RFVraw="31"/>
+<tmp view="Process DC orders" id="id-13256" Eset="14" Oset="15" RFVraw="29"/>
+<tmp view="Transmit orders to PC" id="id-13293" Eset="8" Oset="21" RFVraw="29"/>
+<tmp view="04. Change in production schedule" id="id-13631" Eset="13" Oset="15" RFVraw="28"/>
+<tmp view="CRM behavior_new_2" id="id-14559" Eset="6" Oset="22" RFVraw="28"/>
+<tmp view="Business performance - solutions" id="id-12716" Eset="21" Oset="6" RFVraw="27"/>
+<tmp view="Org. structure_new" id="id-12480" Eset="17" Oset="10" RFVraw="27"/>
+<tmp view="Business functions_new" id="id-12427" Eset="15" Oset="12" RFVraw="27"/>
+<tmp view="CRM behavior_new_1" id="id-14410" Eset="6" Oset="21" RFVraw="27"/>
+<tmp view="05. ISA-95 messages exchanged" id="id-13580" Eset="23" Oset="3" RFVraw="26"/>
+<tmp view="Organisation dpts" id="id-13017" Eset="16" Oset="10" RFVraw="26"/>
+<tmp view="Actor cooperation view for Enterprise-control application interface" id="id-12776" Eset="4" Oset="22" RFVraw="26"/>
+<tmp view="Customer satisfaction focus - solutions" id="id-12825" Eset="15" Oset="10" RFVraw="25"/>
+<tmp view="04. Enterprise business function usage of CRM application functions" id="id-15670" Eset="6" Oset="17" RFVraw="23"/>
+<tmp view="01.3 Control functions" id="id-14012" Eset="7" Oset="14" RFVraw="21"/>
+<tmp view="06. Message verbs by transaction models" id="id-14170" Eset="14" Oset="7" RFVraw="21"/>
+<tmp view="07. Object model summary" id="id-14111" Eset="20" Oset="0" RFVraw="20"/>
+<tmp view="Motivation - Customer satisfaction focus" id="id-12868" Eset="9" Oset="10" RFVraw="19"/>
+<tmp view="Motivation - business performance focus" id="id-12896" Eset="8" Oset="9" RFVraw="17"/>
+<tmp view="03. CRM functional model" id="id-15694" Eset="15" Oset="2" RFVraw="17"/>
+<tmp view="05. Equipment hierarchy" id="id-15624" Eset="16" Oset="0" RFVraw="16"/>
+<tmp view="Infrastructure view" id="id-14337" Eset="14" Oset="0" RFVraw="14"/>
+<tmp view="03. Order fulfillment" id="id-13671" Eset="10" Oset="3" RFVraw="13"/>
+<tmp view="02. Activity model of production operations management" id="id-15345" Eset="13" Oset="0" RFVraw="13"/>
+<tmp view="01. Stakeholder" id="id-13749" Eset="9" Oset="2" RFVraw="11"/>
+<tmp view="Generic ArchiMate example" id="id-15864" Eset="9" Oset="0" RFVraw="9"/>
+<tmp view="Actor cooperation view for Enterprise-control functional interface" id="id-12784" Eset="4" Oset="4" RFVraw="8"/>
+<tmp view="08. ArchiMate generic example" id="id-15383" Eset="3" Oset="3" RFVraw="6"/>
+<tmp view="Compare Approaches" id="id-15340" Eset="4" Oset="1" RFVraw="5"/>
+<tmp view="Total view for Controller" id="id-14819" Eset="1" Oset="3" RFVraw="4"/>
+<tmp view="Total view for Process cell controller" id="id-15892" Eset="2" Oset="2" RFVraw="4"/>
+<tmp view="Total view for Production line controller" id="id-14815" Eset="2" Oset="2" RFVraw="4"/>
+<tmp view="CRM behavior_new_4" id="id-12190" Eset="1" Oset="3" RFVraw="4"/>
+<tmp view="CRM behavior_new_3" id="id-12192" Eset="1" Oset="2" RFVraw="3"/>

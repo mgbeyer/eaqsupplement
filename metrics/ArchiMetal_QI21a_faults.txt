@@ -1,0 +1,48 @@
+<tmp type="Location">
+  <element name="Area" id="id-11704"/>
+  <element name="Site" id="id-11703"/>
+  <element name="Production line" id="id-11708"/>
+  <element name="Process cell" id="id-11705"/>
+</tmp>
+<tmp type="BusinessActor">
+  <element name="Supply partner" id="id-11427"/>
+  <element name="Transportation partner" id="id-11428"/>
+  <element name="Customer" id="id-11462"/>
+  <element name="DC East Europe" id="id-11447"/>
+  <element name="DC Spain" id="id-11448"/>
+  <element name="Customer relations" id="id-11457"/>
+  <element name="Commercial" id="id-11456"/>
+  <element name="Distribution" id="id-11455"/>
+  <element name="Logistics" id="id-11453"/>
+  <element name="Procurement" id="id-11451"/>
+  <element name="Production" id="id-11450"/>
+  <element name="Sales" id="id-11452"/>
+  <element name="QualityMgt" id="id-11459"/>
+  <element name="Finance" id="id-11460"/>
+  <element name="HR" id="id-11461"/>
+  <element name="Customer service" id="id-11435"/>
+  <element name="Enterprise" id="id-11445"/>
+  <element name="Transportation company" id="id-11444"/>
+  <element name="Manufacturing engineer" id="id-11443"/>
+  <element name="Logistics planner" id="id-11442"/>
+  <element name="Manufacturing planner" id="id-11441"/>
+  <element name="Business actor (4)" id="id-11440"/>
+  <element name="Head of sales" id="id-11439"/>
+  <element name="Head of manufacturing" id="id-11438"/>
+  <element name="ArchiBuilder" id="id-11437"/>
+  <element name="Purchasing agent" id="id-11436"/>
+</tmp>
+<tmp type="BusinessRole">
+  <element name="Customer" id="id-11468"/>
+  <element name="Production manager" id="id-11479"/>
+  <element name="Sales manager" id="id-11476"/>
+  <element name="Proposal specialist" id="id-11475"/>
+  <element name="Account manager" id="id-11474"/>
+  <element name="Bank" id="id-11469"/>
+  <element name="Production center" id="id-11467"/>
+  <element name="Distribution center" id="id-11471"/>
+  <element name="PC" id="id-11470"/>
+</tmp>
+<tmp type="BusinessInterface">
+  <element name="Enterprise-control functional interface" id="id-11484"/>
+</tmp>

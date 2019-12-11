@@ -1,0 +1,15 @@
+<tmp type="ApplicationService">
+  <element name="Query" id="id-11867"/>
+  <element name="Analytics" id="id-11866"/>
+  <element name="Reporting" id="id-11868"/>
+  <element name="Sales pipeline mgmt" id="id-11869"/>
+  <element name="Quoting" id="id-11865"/>
+  <element name="Order status mgt" id="id-11864"/>
+  <element name="Social interaction" id="id-11863"/>
+  <element name="Customer data mgmt" id="id-11862"/>
+  <element name="Contract creation service" id="id-11875"/>
+  <element name="Total customer debt information service" id="id-11871"/>
+  <element name="Customer information service" id="id-11853"/>
+  <element name="Customer order tracking service" id="id-11874"/>
+  <element name="Distributor information service" id="id-11882"/>
+</tmp>

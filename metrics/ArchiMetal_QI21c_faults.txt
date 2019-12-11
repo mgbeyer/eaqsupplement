@@ -1,0 +1,41 @@
+<tmp type="ApplicationComponent">
+  <element name="BI toolset" id="id-11830"/>
+  <element name="CRM" id="id-11828"/>
+  <element name="ERP" id="id-11819"/>
+  <element name="Integrated customer-centric solution" id="id-11831"/>
+  <element name="Customer data management application" id="id-11813"/>
+  <element name="CRM system" id="id-11806"/>
+  <element name="Contracts component" id="id-11808"/>
+  <element name="Customer data component" id="id-11807"/>
+  <element name="Financial application HQ" id="id-11825"/>
+  <element name="Customer order monitoring application" id="id-11812"/>
+  <element name="Application component" id="id-11805"/>
+  <element name="EAI bus" id="id-11827"/>
+  <element name="ERP application" id="id-11833"/>
+  <element name="Distributors management" id="id-11818"/>
+  <element name="DC Shipping application" id="id-11832"/>
+  <element name="Financial applicaiton" id="id-11837"/>
+  <element name="Production scheduliing" id="id-11826"/>
+  <element name="Financial" id="id-11835"/>
+  <element name="Inventory" id="id-11821"/>
+  <element name="Production planning" id="id-11834"/>
+  <element name="Materials management" id="id-11820"/>
+  <element name="DC order management" id="id-11824"/>
+  <element name="Invoicing (Distributors)" id="id-11822"/>
+  <element name="Shipping application" id="id-11817"/>
+  <element name="Order management application" id="id-11815"/>
+  <element name="Financial application" id="id-11823"/>
+  <element name="Invoicing application" id="id-11816"/>
+  <element name="Customer order notifications component" id="id-11811"/>
+  <element name="Order management component" id="id-11810"/>
+  <element name="Analytics and reporting" id="id-11809"/>
+  <element name="Distributers invoicing" id="id-11843"/>
+  <element name="Logistics module" id="id-11847"/>
+  <element name="Planning Module" id="id-11846"/>
+</tmp>
+<tmp type="ApplicationCollaboration">
+  <element name="Customer contract" id="id-11838"/>
+  <element name="Customer risk assessment" id="id-11839"/>
+  <element name="Total customer debt" id="id-11842"/>
+  <element name="Customer order status" id="id-11841"/>
+</tmp>

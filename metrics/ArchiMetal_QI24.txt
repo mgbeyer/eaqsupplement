@@ -1,0 +1,74 @@
+<tmp source="Customer (id-11462)" target="Commercial (id-11487)" reltype="Flow" relID="id-11462-160-11487"/>
+<tmp source="Customer (id-11462)" target="DC Customer relations (id-11494)" reltype="Flow" relID="id-11462-160-11494"/>
+<tmp source="Customer (id-11462)" target="Distribution (id-11495)" reltype="Flow" relID="id-11462-160-11495"/>
+<tmp source="Customer (id-11468)" target="Commercial (id-11487)" reltype="Flow" relID="id-11468-160-11487"/>
+<tmp source="Customer (id-11468)" target="DC Customer relations (id-11494)" reltype="Flow" relID="id-11468-160-11494"/>
+<tmp source="Customer (id-11468)" target="Distribution (id-11495)" reltype="Flow" relID="id-11468-160-11495"/>
+<tmp source="Finance (id-11485)" target="DC Customer relations (id-11494)" reltype="Flow" relID="id-11485-124-11494"/>
+<tmp source="Customer relationship management (id-11486)" target="DC Customer relations (id-11494)" reltype="Flow" relID="id-11486-124-11494"/>
+<tmp source="Commercial (id-11487)" target="DC Customer relations (id-11494)" reltype="Flow" relID="id-11487-124-11494"/>
+<tmp source="Commercial (id-11487)" target="Distribution (id-11495)" reltype="Flow" relID="id-11487-124-11495"/>
+<tmp source="Commercial (id-11487)" target="Sales (id-11517)" reltype="Flow" relID="id-11487-124-11517"/>
+<tmp source="Commercial (id-11487)" target="Customer (id-11462)" reltype="Flow" relID="id-11487-160-11462"/>
+<tmp source="Commercial (id-11487)" target="Customer (id-11468)" reltype="Flow" relID="id-11487-160-11468"/>
+<tmp source="Logistics (id-11488)" target="Production (id-11491)" reltype="Flow" relID="id-11488-124-11491"/>
+<tmp source="Logistics (id-11488)" target="Warehousing (id-11492)" reltype="Flow" relID="id-11488-124-11492"/>
+<tmp source="Logistics (id-11488)" target="Sales (id-11517)" reltype="Flow" relID="id-11488-124-11517"/>
+<tmp source="Production (id-11491)" target="Logistics (id-11488)" reltype="Flow" relID="id-11491-124-11488"/>
+<tmp source="Warehousing (id-11492)" target="Logistics (id-11488)" reltype="Flow" relID="id-11492-124-11488"/>
+<tmp source="DC Customer relations (id-11494)" target="Finance (id-11485)" reltype="Flow" relID="id-11494-124-11485"/>
+<tmp source="DC Customer relations (id-11494)" target="Customer relationship management (id-11486)" reltype="Flow" relID="id-11494-124-11486"/>
+<tmp source="DC Customer relations (id-11494)" target="Commercial (id-11487)" reltype="Flow" relID="id-11494-124-11487"/>
+<tmp source="DC Customer relations (id-11494)" target="Customer (id-11462)" reltype="Flow" relID="id-11494-160-11462"/>
+<tmp source="DC Customer relations (id-11494)" target="Customer (id-11468)" reltype="Flow" relID="id-11494-160-11468"/>
+<tmp source="Distribution (id-11495)" target="Commercial (id-11487)" reltype="Flow" relID="id-11495-124-11487"/>
+<tmp source="Distribution (id-11495)" target="Customer (id-11462)" reltype="Flow" relID="id-11495-160-11462"/>
+<tmp source="Distribution (id-11495)" target="Customer (id-11468)" reltype="Flow" relID="id-11495-160-11468"/>
+<tmp source="Production execution management (id-11511)" target="Level 0-2 functions (id-11512)" reltype="Flow" relID="id-11511-124-11512"/>
+<tmp source="Level 0-2 functions (id-11512)" target="Production execution management (id-11511)" reltype="Flow" relID="id-11512-124-11511"/>
+<tmp source="Sales (id-11517)" target="Commercial (id-11487)" reltype="Flow" relID="id-11517-124-11487"/>
+<tmp source="Sales (id-11517)" target="Logistics (id-11488)" reltype="Flow" relID="id-11517-124-11488"/>
+<tmp source="ArchiMetal operations (id-11536)" target="Metal Products and Services (id-11696)" reltype="Realization" relID="id-11536-108-11696"/>
+<tmp source="ArchiMetal operations (id-11536)" target="Metal Products and Services (id-11696)" reltype="Triggering" relID="id-11536-154-11696"/>
+<tmp source="Process DC order (id-11625)" target="Transmit orders (id-11631)" reltype="Flow" relID="id-11625-124-11631"/>
+<tmp source="Transmit orders (id-11631)" target="Process DC order (id-11625)" reltype="Flow" relID="id-11631-124-11625"/>
+<tmp source="Evaluate customer credit (id-11653)" target="AJ1 (id-14407)" reltype="Triggering" relID="id-11653-118-14407"/>
+<tmp source="Plan order (id-11655)" target="AJ1 (id-14407)" reltype="Triggering" relID="id-11655-118-14407"/>
+<tmp source="CRM system (id-11806)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11806-160-11827"/>
+<tmp source="Customer order monitoring application (id-11812)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11812-160-11827"/>
+<tmp source="Customer data management application (id-11813)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11813-160-11827"/>
+<tmp source="Order management application (id-11815)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11815-160-11827"/>
+<tmp source="Invoicing application (id-11816)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11816-160-11827"/>
+<tmp source="Shipping application (id-11817)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11817-160-11827"/>
+<tmp source="Distributors management (id-11818)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11818-160-11827"/>
+<tmp source="ERP (id-11819)" target="Production scheduliing (id-11826)" reltype="Flow" relID="id-11819-160-11826"/>
+<tmp source="ERP (id-11819)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11819-160-11827"/>
+<tmp source="Invoicing (Distributors) (id-11822)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11822-160-11827"/>
+<tmp source="Financial application (id-11823)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11823-160-11827"/>
+<tmp source="DC order management (id-11824)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11824-160-11827"/>
+<tmp source="Financial application HQ (id-11825)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11825-160-11827"/>
+<tmp source="Production scheduliing (id-11826)" target="ERP (id-11819)" reltype="Flow" relID="id-11826-160-11819"/>
+<tmp source="Production scheduliing (id-11826)" target="ERP application (id-11833)" reltype="Flow" relID="id-11826-160-11833"/>
+<tmp source="EAI bus (id-11827)" target="CRM system (id-11806)" reltype="Flow" relID="id-11827-160-11806"/>
+<tmp source="EAI bus (id-11827)" target="Customer order monitoring application (id-11812)" reltype="Flow" relID="id-11827-160-11812"/>
+<tmp source="EAI bus (id-11827)" target="Customer data management application (id-11813)" reltype="Flow" relID="id-11827-160-11813"/>
+<tmp source="EAI bus (id-11827)" target="Order management application (id-11815)" reltype="Flow" relID="id-11827-160-11815"/>
+<tmp source="EAI bus (id-11827)" target="Invoicing application (id-11816)" reltype="Flow" relID="id-11827-160-11816"/>
+<tmp source="EAI bus (id-11827)" target="Shipping application (id-11817)" reltype="Flow" relID="id-11827-160-11817"/>
+<tmp source="EAI bus (id-11827)" target="Distributors management (id-11818)" reltype="Flow" relID="id-11827-160-11818"/>
+<tmp source="EAI bus (id-11827)" target="ERP (id-11819)" reltype="Flow" relID="id-11827-160-11819"/>
+<tmp source="EAI bus (id-11827)" target="Invoicing (Distributors) (id-11822)" reltype="Flow" relID="id-11827-160-11822"/>
+<tmp source="EAI bus (id-11827)" target="Financial application (id-11823)" reltype="Flow" relID="id-11827-160-11823"/>
+<tmp source="EAI bus (id-11827)" target="DC order management (id-11824)" reltype="Flow" relID="id-11827-160-11824"/>
+<tmp source="EAI bus (id-11827)" target="Financial application HQ (id-11825)" reltype="Flow" relID="id-11827-160-11825"/>
+<tmp source="EAI bus (id-11827)" target="DC Shipping application (id-11832)" reltype="Flow" relID="id-11827-160-11832"/>
+<tmp source="EAI bus (id-11827)" target="ERP application (id-11833)" reltype="Flow" relID="id-11827-160-11833"/>
+<tmp source="EAI bus (id-11827)" target="Financial applicaiton (id-11837)" reltype="Flow" relID="id-11827-160-11837"/>
+<tmp source="Integrated customer-centric solution (id-11831)" target="CRM (id-11870)" reltype="Realization" relID="id-11831-146-11870"/>
+<tmp source="Integrated customer-centric solution (id-11831)" target="CRM (id-11870)" reltype="Serving" relID="id-11831-170-11870"/>
+<tmp source="DC Shipping application (id-11832)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11832-160-11827"/>
+<tmp source="ERP application (id-11833)" target="Production scheduliing (id-11826)" reltype="Flow" relID="id-11833-160-11826"/>
+<tmp source="ERP application (id-11833)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11833-160-11827"/>
+<tmp source="Financial applicaiton (id-11837)" target="EAI bus (id-11827)" reltype="Flow" relID="id-11837-160-11827"/>
+<tmp source="AJ1 (id-14407)" target="Evaluate customer credit (id-11653)" reltype="Triggering" relID="id-14407-118-11653"/>
+<tmp source="AJ1 (id-14407)" target="Plan order (id-11655)" reltype="Triggering" relID="id-14407-118-11655"/>

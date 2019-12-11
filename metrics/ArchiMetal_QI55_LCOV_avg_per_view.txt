@@ -1,0 +1,71 @@
+<tmp view="01. Functional enterprise-control model" id="id-15388" avg_lcov="0.01651755601639087"/>
+<tmp view="01. Stakeholder" id="id-13749" avg_lcov="0.001881622214103034"/>
+<tmp view="01.1 Summary functional enterprise-control model" id="id-15509" avg_lcov="0.013874223602484474"/>
+<tmp view="01.2 Enterprise functions" id="id-14066" avg_lcov="0.013940624676876758"/>
+<tmp view="01.3 Control functions" id="id-14012" avg_lcov="0.011316893424036282"/>
+<tmp view="02. Activity model of production operations management" id="id-15345" avg_lcov="0"/>
+<tmp view="02. Order-to-contract" id="id-13701" avg_lcov="0.003790567813772378"/>
+<tmp view="03. CRM functional model" id="id-15694" avg_lcov="0.003361344537815124"/>
+<tmp view="03. Order fulfillment" id="id-13671" avg_lcov="0.001477832512315272"/>
+<tmp view="04. Change in production schedule" id="id-13631" avg_lcov="0.012702355419463538"/>
+<tmp view="04. Enterprise business function usage of CRM application functions" id="id-15670" avg_lcov="0.008373135300631883"/>
+<tmp view="05. Equipment hierarchy" id="id-15624" avg_lcov="0.004464285714285713"/>
+<tmp view="05. ISA-95 messages exchanged" id="id-13580" avg_lcov="0.002764976958525346"/>
+<tmp view="06. Message verbs by transaction models" id="id-14170" avg_lcov="0.002764976958525344"/>
+<tmp view="07. Object model summary" id="id-14111" avg_lcov="-0.000000000000000001"/>
+<tmp view="08. ArchiMate generic example" id="id-15383" avg_lcov="0.004761904761904763"/>
+<tmp view="Actor cooperation view for Enterprise-control application interface" id="id-12776" avg_lcov="0.011547619047619048"/>
+<tmp view="Actor cooperation view for Enterprise-control functional interface" id="id-12784" avg_lcov="0.010816326530612246"/>
+<tmp view="Application architecture" id="id-13443" avg_lcov="0.018602708095795653"/>
+<tmp view="Application architecture_new_1" id="id-12350" avg_lcov="0.024197237694420861"/>
+<tmp view="Architecture vision" id="id-15784" avg_lcov="0.024548224830751635"/>
+<tmp view="Business functions" id="id-12982" avg_lcov="0.026612114309237553"/>
+<tmp view="Business functions_new" id="id-12427" avg_lcov="0.014099983971127344"/>
+<tmp view="Business performance - solutions" id="id-12716" avg_lcov="0.020550488099749184"/>
+<tmp view="CRM behavior_new_1" id="id-14410" avg_lcov="0.012021772271661702"/>
+<tmp view="CRM behavior_new_2" id="id-14559" avg_lcov="0.014067293584100308"/>
+<tmp view="CRM behavior_new_3" id="id-12192" avg_lcov="0.000892857142857145"/>
+<tmp view="CRM behavior_new_4" id="id-12190" avg_lcov="0.000892857142857145"/>
+<tmp view="CRM implementation and migration" id="id-14858" avg_lcov="0.01970518833018833"/>
+<tmp view="CRM structure_new" id="id-12322" avg_lcov="0.024857246699226971"/>
+<tmp view="Compare Approaches" id="id-15340" avg_lcov="0.000595238095238096"/>
+<tmp view="Contracting" id="id-13537" avg_lcov="0.042999377103948243"/>
+<tmp view="Contracting_IT" id="id-13407" avg_lcov="0.027058173551156053"/>
+<tmp view="Contracting_new" id="id-11976" avg_lcov="0.047428095563535499"/>
+<tmp view="Contracting_new_IT" id="id-12032" avg_lcov="0.036442445231856915"/>
+<tmp view="Cust. services" id="id-13220" avg_lcov="0.060098584136269463"/>
+<tmp view="Cust. services_new" id="id-12163" avg_lcov="0.053126227235652787"/>
+<tmp view="Cust. services_new" id="id-12123" avg_lcov="0.066691342941786599"/>
+<tmp view="Customer satisfaction focus - solutions" id="id-12825" avg_lcov="0.022280994304136865"/>
+<tmp view="Evaluate credit risk" id="id-13122" avg_lcov="0.0312446749744577"/>
+<tmp view="Evaluate credit risk_new" id="id-12075" avg_lcov="0.023154662682612994"/>
+<tmp view="Functional enterprise-control model" id="id-13899" avg_lcov="0.021220629666007817"/>
+<tmp view="Gap analysis and roadmaps" id="id-15734" avg_lcov="0.013798348113857408"/>
+<tmp view="Generic ArchiMate example" id="id-15864" avg_lcov="0.004761904761904764"/>
+<tmp view="Inform customer" id="id-12954" avg_lcov="0.027239868832517335"/>
+<tmp view="Infrastructure view" id="id-14337" avg_lcov="-0.000000000000000001"/>
+<tmp view="Landscape view" id="id-12793" avg_lcov="0.02394757307156004"/>
+<tmp view="Layered view" id="id-14760" avg_lcov="0.059683453094606964"/>
+<tmp view="Motivation - Customer satisfaction focus" id="id-12868" avg_lcov="0.020237975532093181"/>
+<tmp view="Motivation - business performance focus" id="id-12896" avg_lcov="0.017240904458949573"/>
+<tmp view="New Order Message Flow" id="id-13780" avg_lcov="0.008939248977077837"/>
+<tmp view="Org. structure_new" id="id-12480" avg_lcov="0.023032019073851267"/>
+<tmp view="Organisation dpts" id="id-13017" avg_lcov="0.023366580742890555"/>
+<tmp view="Process DC orders" id="id-13256" avg_lcov="0.018175849914980349"/>
+<tmp view="Process DCorders_IT" id="id-13485" avg_lcov="0.021078683696985433"/>
+<tmp view="Process customer order_new" id="id-14476" avg_lcov="0.020771707675648563"/>
+<tmp view="Process customer order_new_IT" id="id-14432" avg_lcov="0.029838589230078392"/>
+<tmp view="Processes Interdependencies" id="id-13171" avg_lcov="0.064974952545187575"/>
+<tmp view="Processes interdependencies" id="id-12614" avg_lcov="0.065560425768968444"/>
+<tmp view="Register order" id="id-13084" avg_lcov="0.045933248995786811"/>
+<tmp view="Register order_IT" id="id-13366" avg_lcov="0.030539679381722645"/>
+<tmp view="Register order_new" id="id-12386" avg_lcov="0.048648873946996978"/>
+<tmp view="Register order_new_IT" id="id-14512" avg_lcov="0.039547617820391724"/>
+<tmp view="Total view for Controller" id="id-14819" avg_lcov="0.000892857142857145"/>
+<tmp view="Total view for Process cell controller" id="id-15892" avg_lcov="0.001785714285714287"/>
+<tmp view="Total view for Production line controller" id="id-14815" avg_lcov="0.001785714285714287"/>
+<tmp view="Track customer order_new_IT" id="id-14724" avg_lcov="0.028297691443029524"/>
+<tmp view="Transmit orders to PC" id="id-13293" avg_lcov="0.016512938549292222"/>
+<tmp view="Transmit orders_IT_all" id="id-13318" avg_lcov="0.026100488134131042"/>
+<tmp view="Verify total exposure" id="id-14920" avg_lcov="0.026780881006401749"/>
+<tmp view="Vision" id="id-12507" avg_lcov="0.00722991161825764"/>

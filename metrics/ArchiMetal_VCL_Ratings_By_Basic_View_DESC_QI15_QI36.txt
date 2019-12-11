@@ -1,0 +1,1798 @@
+<tmp basicview="ApplicationCooperation">
+   <vals view="CRM behavior_new_1" val="0.7"/>
+   <vals view="CRM behavior_new_2" val="0.7"/>
+   <vals view="03. CRM functional model" val="0.55"/>
+   <vals view="Total view for Controller" val="0.55"/>
+   <vals view="06. Message verbs by transaction models" val="0.55"/>
+   <vals view="CRM behavior_new_3" val="0.55"/>
+   <vals view="CRM behavior_new_4" val="0.55"/>
+   <vals view="01. Functional enterprise-control model" val="0.45"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0.4333333333333333335"/>
+   <vals view="Process DCorders_IT" val="0.4333333333333333335"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0.4"/>
+   <vals view="Vision" val="0.3642857142857142855"/>
+   <vals view="Register order_new_IT" val="0.3642857142857142855"/>
+   <vals view="Track customer order_new_IT" val="0.3642857142857142855"/>
+   <vals view="Contracting_IT" val="0.35"/>
+   <vals view="07. Object model summary" val="0.3"/>
+   <vals view="Contracting_new_IT" val="0.3"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0.3"/>
+   <vals view="Process customer order_new_IT" val="0.3"/>
+   <vals view="Total view for Process cell controller" val="0.3"/>
+   <vals view="Total view for Production line controller" val="0.3"/>
+   <vals view="Application architecture" val="0.3"/>
+   <vals view="Application architecture_new_1" val="0.3"/>
+   <vals view="CRM structure_new" val="0.3"/>
+   <vals view="Register order_IT" val="0.3"/>
+   <vals view="Transmit orders_IT_all" val="0.3"/>
+   <vals view="New Order Message Flow" val="0.2666666666666666665"/>
+   <vals view="Generic ArchiMate example" val="0.242857142857142857"/>
+   <vals view="Gap analysis and roadmaps" val="0.225"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.2166666666666666665"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0.2166666666666666665"/>
+   <vals view="Landscape view" val="0.2166666666666666665"/>
+   <vals view="03. Order fulfillment" val="0.175"/>
+   <vals view="02. Order-to-contract" val="0.15"/>
+   <vals view="05. Equipment hierarchy" val="0.15"/>
+   <vals view="Layered view" val="0.15"/>
+   <vals view="CRM implementation and migration" val="0.1333333333333333335"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Compare Approaches" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+</tmp>, <tmp basicview="ApplicationUsage">
+   <vals view="New Order Message Flow" val="0.6764705882352941175"/>
+   <vals view="02. Order-to-contract" val="0.6470588235294117645"/>
+   <vals view="Contracting_new_IT" val="0.6470588235294117645"/>
+   <vals view="Process customer order_new_IT" val="0.6470588235294117645"/>
+   <vals view="Transmit orders_IT_all" val="0.6470588235294117645"/>
+   <vals view="Contracting_IT" val="0.617647058823529412"/>
+   <vals view="03. Order fulfillment" val="0.617647058823529412"/>
+   <vals view="CRM behavior_new_1" val="0.617647058823529412"/>
+   <vals view="CRM behavior_new_2" val="0.617647058823529412"/>
+   <vals view="Process customer order_new" val="0.617647058823529412"/>
+   <vals view="Transmit orders to PC" val="0.617647058823529412"/>
+   <vals view="Vision" val="0.605042016806722689"/>
+   <vals view="Register order_new_IT" val="0.605042016806722689"/>
+   <vals view="Track customer order_new_IT" val="0.605042016806722689"/>
+   <vals view="Landscape view" val="0.588235294117647059"/>
+   <vals view="Process DC orders" val="0.588235294117647059"/>
+   <vals view="Process DCorders_IT" val="0.588235294117647059"/>
+   <vals view="Evaluate credit risk" val="0.563725490196078431"/>
+   <vals view="07. Object model summary" val="0.558823529411764706"/>
+   <vals view="04. Change in production schedule" val="0.558823529411764706"/>
+   <vals view="Business functions" val="0.558823529411764706"/>
+   <vals view="Business functions_new" val="0.558823529411764706"/>
+   <vals view="02. Activity model of production operations management"
+         val="0.558823529411764706"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0.558823529411764706"/>
+   <vals view="CRM structure_new" val="0.558823529411764706"/>
+   <vals view="Org. structure_new" val="0.529411764705882353"/>
+   <vals view="Organisation dpts" val="0.529411764705882353"/>
+   <vals view="Functional enterprise-control model" val="0.529411764705882353"/>
+   <vals view="03. CRM functional model" val="0.529411764705882353"/>
+   <vals view="01.2 Enterprise functions" val="0.529411764705882353"/>
+   <vals view="01.3 Control functions" val="0.529411764705882353"/>
+   <vals view="06. Message verbs by transaction models"
+         val="0.529411764705882353"/>
+   <vals view="CRM behavior_new_3" val="0.529411764705882353"/>
+   <vals view="CRM behavior_new_4" val="0.529411764705882353"/>
+   <vals view="Evaluate credit risk_new" val="0.517647058823529412"/>
+   <vals view="Inform customer" val="0.517647058823529412"/>
+   <vals view="Register order_new" val="0.517647058823529412"/>
+   <vals view="01. Functional enterprise-control model"
+         val="0.517647058823529412"/>
+   <vals view="Verify total exposure" val="0.517647058823529412"/>
+   <vals view="Register order" val="0.517647058823529412"/>
+   <vals view="Register order_IT" val="0.517647058823529412"/>
+   <vals view="Contracting" val="0.4509803921568627455"/>
+   <vals view="Contracting_new" val="0.4509803921568627455"/>
+   <vals view="01.1 Summary functional enterprise-control model"
+         val="0.4509803921568627455"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.3921568627450980395"/>
+   <vals view="Cust. services" val="0.3921568627450980395"/>
+   <vals view="Cust. services_new" val="0.3921568627450980395"/>
+   <vals view="Cust. services_new" val="0.3921568627450980395"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0.3921568627450980395"/>
+   <vals view="Processes interdependencies" val="0.3921568627450980395"/>
+   <vals view="Processes Interdependencies" val="0.3921568627450980395"/>
+   <vals view="Layered view" val="0.388235294117647059"/>
+   <vals view="Generic ArchiMate example" val="0.3025210084033613445"/>
+   <vals view="Compare Approaches" val="0.279411764705882353"/>
+   <vals view="Application architecture" val="0.279411764705882353"/>
+   <vals view="Application architecture_new_1" val="0.279411764705882353"/>
+   <vals view="Gap analysis and roadmaps" val="0.275735294117647059"/>
+   <vals view="05. Equipment hierarchy" val="0.258823529411764706"/>
+   <vals view="CRM implementation and migration" val="0.2254901960784313725"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0.1960784313725490195"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+</tmp>, <tmp basicview="BusinessProcessCooperation">
+   <vals view="Vision" val="0.6666666666666666665"/>
+   <vals view="Register order_new_IT" val="0.6666666666666666665"/>
+   <vals view="Track customer order_new_IT" val="0.6666666666666666665"/>
+   <vals view="Contracting" val="0.642857142857142857"/>
+   <vals view="Contracting_new" val="0.642857142857142857"/>
+   <vals view="Evaluate credit risk" val="0.642857142857142857"/>
+   <vals view="01.1 Summary functional enterprise-control model"
+         val="0.642857142857142857"/>
+   <vals view="New Order Message Flow" val="0.642857142857142857"/>
+   <vals view="Evaluate credit risk_new" val="0.6190476190476190475"/>
+   <vals view="Inform customer" val="0.6190476190476190475"/>
+   <vals view="Register order_new" val="0.6190476190476190475"/>
+   <vals view="02. Order-to-contract" val="0.6190476190476190475"/>
+   <vals view="Contracting_new_IT" val="0.6190476190476190475"/>
+   <vals view="Process customer order_new_IT" val="0.6190476190476190475"/>
+   <vals view="Verify total exposure" val="0.6190476190476190475"/>
+   <vals view="Register order" val="0.6190476190476190475"/>
+   <vals view="Register order_IT" val="0.6190476190476190475"/>
+   <vals view="Transmit orders_IT_all" val="0.6190476190476190475"/>
+   <vals view="Contracting_IT" val="0.595238095238095238"/>
+   <vals view="03. Order fulfillment" val="0.595238095238095238"/>
+   <vals view="CRM behavior_new_1" val="0.595238095238095238"/>
+   <vals view="CRM behavior_new_2" val="0.595238095238095238"/>
+   <vals view="Process customer order_new" val="0.595238095238095238"/>
+   <vals view="Transmit orders to PC" val="0.595238095238095238"/>
+   <vals view="Cust. services" val="0.5714285714285714285"/>
+   <vals view="Cust. services_new" val="0.5714285714285714285"/>
+   <vals view="Cust. services_new" val="0.5714285714285714285"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0.5714285714285714285"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0.5714285714285714285"/>
+   <vals view="Processes interdependencies" val="0.5714285714285714285"/>
+   <vals view="Processes Interdependencies" val="0.5714285714285714285"/>
+   <vals view="Landscape view" val="0.5714285714285714285"/>
+   <vals view="Process DC orders" val="0.5714285714285714285"/>
+   <vals view="Process DCorders_IT" val="0.5714285714285714285"/>
+   <vals view="07. Object model summary" val="0.547619047619047619"/>
+   <vals view="04. Change in production schedule" val="0.547619047619047619"/>
+   <vals view="Business functions" val="0.547619047619047619"/>
+   <vals view="Business functions_new" val="0.547619047619047619"/>
+   <vals view="02. Activity model of production operations management"
+         val="0.547619047619047619"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0.547619047619047619"/>
+   <vals view="CRM structure_new" val="0.547619047619047619"/>
+   <vals view="Org. structure_new" val="0.5238095238095238095"/>
+   <vals view="Organisation dpts" val="0.5238095238095238095"/>
+   <vals view="Functional enterprise-control model" val="0.5238095238095238095"/>
+   <vals view="03. CRM functional model" val="0.5238095238095238095"/>
+   <vals view="Total view for Controller" val="0.5238095238095238095"/>
+   <vals view="01.2 Enterprise functions" val="0.5238095238095238095"/>
+   <vals view="01.3 Control functions" val="0.5238095238095238095"/>
+   <vals view="06. Message verbs by transaction models"
+         val="0.5238095238095238095"/>
+   <vals view="CRM behavior_new_3" val="0.5238095238095238095"/>
+   <vals view="CRM behavior_new_4" val="0.5238095238095238095"/>
+   <vals view="01. Functional enterprise-control model"
+         val="0.495238095238095238"/>
+   <vals view="Layered view" val="0.495238095238095238"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.3809523809523809525"/>
+   <vals view="Generic ArchiMate example" val="0.3809523809523809525"/>
+   <vals view="05. Equipment hierarchy" val="0.3714285714285714285"/>
+   <vals view="CRM implementation and migration" val="0.3214285714285714285"/>
+   <vals view="08. ArchiMate generic example" val="0.2738095238095238095"/>
+   <vals view="Compare Approaches" val="0.2738095238095238095"/>
+   <vals view="Total view for Process cell controller"
+         val="0.2738095238095238095"/>
+   <vals view="Total view for Production line controller"
+         val="0.2738095238095238095"/>
+   <vals view="Application architecture" val="0.2738095238095238095"/>
+   <vals view="Application architecture_new_1" val="0.2738095238095238095"/>
+   <vals view="Gap analysis and roadmaps" val="0.2589285714285714285"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+</tmp>, <tmp basicview="CapabilityMap">
+   <vals view="Vision" val="0"/>
+   <vals view="05. ISA-95 messages exchanged" val="0"/>
+   <vals view="07. Object model summary" val="0"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="02. Order-to-contract" val="0"/>
+   <vals view="03. Order fulfillment" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Contracting_new_IT" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="05. Equipment hierarchy" val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Compare Approaches" val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="CRM implementation and migration" val="0"/>
+   <vals view="Gap analysis and roadmaps" val="0"/>
+   <vals view="Generic ArchiMate example" val="0"/>
+   <vals view="Layered view" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Process customer order_new_IT" val="0"/>
+   <vals view="Register order_new_IT" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Track customer order_new_IT" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="06. Message verbs by transaction models" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="CRM structure_new" val="0"/>
+   <vals view="Landscape view" val="0"/>
+   <vals view="New Order Message Flow" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+   <vals view="Transmit orders_IT_all" val="0"/>
+</tmp>, <tmp basicview="GoalRealization">
+   <vals view="Business performance - solutions" val="0.4"/>
+   <vals view="Customer satisfaction focus - solutions" val="0.4"/>
+   <vals view="Architecture vision" val="0.4"/>
+   <vals view="Compare Approaches" val="0.35"/>
+   <vals view="01. Stakeholder" val="0.225"/>
+   <vals view="Generic ArchiMate example" val="0.1714285714285714285"/>
+   <vals view="Vision" val="0"/>
+   <vals view="05. ISA-95 messages exchanged" val="0"/>
+   <vals view="07. Object model summary" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="02. Order-to-contract" val="0"/>
+   <vals view="03. Order fulfillment" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Contracting_new_IT" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="05. Equipment hierarchy" val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="CRM implementation and migration" val="0"/>
+   <vals view="Gap analysis and roadmaps" val="0"/>
+   <vals view="Layered view" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Process customer order_new_IT" val="0"/>
+   <vals view="Register order_new_IT" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Track customer order_new_IT" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="06. Message verbs by transaction models" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="CRM structure_new" val="0"/>
+   <vals view="Landscape view" val="0"/>
+   <vals view="New Order Message Flow" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+   <vals view="Transmit orders_IT_all" val="0"/>
+</tmp>, <tmp basicview="ImplementationDeployment">
+   <vals view="CRM behavior_new_1" val="0.617647058823529412"/>
+   <vals view="CRM behavior_new_2" val="0.617647058823529412"/>
+   <vals view="03. CRM functional model" val="0.529411764705882353"/>
+   <vals view="06. Message verbs by transaction models"
+         val="0.529411764705882353"/>
+   <vals view="CRM behavior_new_3" val="0.529411764705882353"/>
+   <vals view="CRM behavior_new_4" val="0.529411764705882353"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0.3921568627450980395"/>
+   <vals view="Process DCorders_IT" val="0.3921568627450980395"/>
+   <vals view="01. Functional enterprise-control model"
+         val="0.388235294117647059"/>
+   <vals view="Infrastructure view" val="0.338235294117647059"/>
+   <vals view="01.1 Summary functional enterprise-control model"
+         val="0.338235294117647059"/>
+   <vals view="Contracting_IT" val="0.308823529411764706"/>
+   <vals view="Vision" val="0.3025210084033613445"/>
+   <vals view="Register order_new_IT" val="0.3025210084033613445"/>
+   <vals view="Track customer order_new_IT" val="0.3025210084033613445"/>
+   <vals view="07. Object model summary" val="0.279411764705882353"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0.279411764705882353"/>
+   <vals view="Application architecture" val="0.279411764705882353"/>
+   <vals view="Application architecture_new_1" val="0.279411764705882353"/>
+   <vals view="CRM structure_new" val="0.279411764705882353"/>
+   <vals view="Contracting_new_IT" val="0.258823529411764706"/>
+   <vals view="Process customer order_new_IT" val="0.258823529411764706"/>
+   <vals view="Register order_IT" val="0.258823529411764706"/>
+   <vals view="Transmit orders_IT_all" val="0.258823529411764706"/>
+   <vals view="New Order Message Flow" val="0.2254901960784313725"/>
+   <vals view="Generic ArchiMate example" val="0.201680672268907563"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.1960784313725490195"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0.1960784313725490195"/>
+   <vals view="Landscape view" val="0.1960784313725490195"/>
+   <vals view="Gap analysis and roadmaps" val="0.183823529411764706"/>
+   <vals view="03. Order fulfillment" val="0.154411764705882353"/>
+   <vals view="02. Order-to-contract" val="0.129411764705882353"/>
+   <vals view="Layered view" val="0.129411764705882353"/>
+   <vals view="CRM implementation and migration" val="0.1127450980392156865"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="05. Equipment hierarchy" val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Compare Approaches" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+</tmp>, <tmp basicview="ImplementationMigration">
+   <vals view="Gap analysis and roadmaps" val="0.586956521739130435"/>
+   <vals view="Vision" val="0.5760869565217391305"/>
+   <vals view="Generic ArchiMate example" val="0.5760869565217391305"/>
+   <vals view="Register order_new_IT" val="0.5760869565217391305"/>
+   <vals view="Track customer order_new_IT" val="0.5760869565217391305"/>
+   <vals view="Contracting" val="0.565217391304347826"/>
+   <vals view="Contracting_new" val="0.565217391304347826"/>
+   <vals view="Infrastructure view" val="0.565217391304347826"/>
+   <vals view="Evaluate credit risk" val="0.565217391304347826"/>
+   <vals view="01.1 Summary functional enterprise-control model"
+         val="0.565217391304347826"/>
+   <vals view="CRM implementation and migration" val="0.565217391304347826"/>
+   <vals view="New Order Message Flow" val="0.565217391304347826"/>
+   <vals view="Evaluate credit risk_new" val="0.5543478260869565215"/>
+   <vals view="Inform customer" val="0.5543478260869565215"/>
+   <vals view="Register order_new" val="0.5543478260869565215"/>
+   <vals view="02. Order-to-contract" val="0.5543478260869565215"/>
+   <vals view="Contracting_new_IT" val="0.5543478260869565215"/>
+   <vals view="01. Functional enterprise-control model"
+         val="0.5543478260869565215"/>
+   <vals view="05. Equipment hierarchy" val="0.5543478260869565215"/>
+   <vals view="Layered view" val="0.5543478260869565215"/>
+   <vals view="Process customer order_new_IT" val="0.5543478260869565215"/>
+   <vals view="Verify total exposure" val="0.5543478260869565215"/>
+   <vals view="Register order" val="0.5543478260869565215"/>
+   <vals view="Register order_IT" val="0.5543478260869565215"/>
+   <vals view="Transmit orders_IT_all" val="0.5543478260869565215"/>
+   <vals view="Contracting_IT" val="0.5434782608695652175"/>
+   <vals view="03. Order fulfillment" val="0.5434782608695652175"/>
+   <vals view="CRM behavior_new_1" val="0.5434782608695652175"/>
+   <vals view="CRM behavior_new_2" val="0.5434782608695652175"/>
+   <vals view="Process customer order_new" val="0.5434782608695652175"/>
+   <vals view="Transmit orders to PC" val="0.5434782608695652175"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.532608695652173913"/>
+   <vals view="Cust. services" val="0.532608695652173913"/>
+   <vals view="Cust. services_new" val="0.532608695652173913"/>
+   <vals view="Cust. services_new" val="0.532608695652173913"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0.532608695652173913"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0.532608695652173913"/>
+   <vals view="Processes interdependencies" val="0.532608695652173913"/>
+   <vals view="Processes Interdependencies" val="0.532608695652173913"/>
+   <vals view="Landscape view" val="0.532608695652173913"/>
+   <vals view="Process DC orders" val="0.532608695652173913"/>
+   <vals view="Process DCorders_IT" val="0.532608695652173913"/>
+   <vals view="07. Object model summary" val="0.5217391304347826085"/>
+   <vals view="04. Change in production schedule" val="0.5217391304347826085"/>
+   <vals view="Business functions" val="0.5217391304347826085"/>
+   <vals view="Business functions_new" val="0.5217391304347826085"/>
+   <vals view="02. Activity model of production operations management"
+         val="0.5217391304347826085"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0.5217391304347826085"/>
+   <vals view="08. ArchiMate generic example" val="0.5217391304347826085"/>
+   <vals view="Compare Approaches" val="0.5217391304347826085"/>
+   <vals view="Total view for Process cell controller"
+         val="0.5217391304347826085"/>
+   <vals view="Total view for Production line controller"
+         val="0.5217391304347826085"/>
+   <vals view="Application architecture" val="0.5217391304347826085"/>
+   <vals view="Application architecture_new_1" val="0.5217391304347826085"/>
+   <vals view="CRM structure_new" val="0.5217391304347826085"/>
+   <vals view="Org. structure_new" val="0.5108695652173913045"/>
+   <vals view="Organisation dpts" val="0.5108695652173913045"/>
+   <vals view="Functional enterprise-control model" val="0.5108695652173913045"/>
+   <vals view="03. CRM functional model" val="0.5108695652173913045"/>
+   <vals view="Total view for Controller" val="0.5108695652173913045"/>
+   <vals view="01.2 Enterprise functions" val="0.5108695652173913045"/>
+   <vals view="01.3 Control functions" val="0.5108695652173913045"/>
+   <vals view="06. Message verbs by transaction models"
+         val="0.5108695652173913045"/>
+   <vals view="CRM behavior_new_3" val="0.5108695652173913045"/>
+   <vals view="CRM behavior_new_4" val="0.5108695652173913045"/>
+   <vals view="Business performance - solutions" val="0.2217391304347826085"/>
+   <vals view="Customer satisfaction focus - solutions"
+         val="0.2217391304347826085"/>
+   <vals view="Architecture vision" val="0.2217391304347826085"/>
+   <vals view="01. Stakeholder" val="0.1358695652173913045"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+</tmp>, <tmp basicview="InformationStructure">
+   <vals view="07. Object model summary" val="0.7"/>
+   <vals view="06. Message verbs by transaction models" val="0.6"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.5333333333333333335"/>
+   <vals view="Contracting" val="0.3666666666666666665"/>
+   <vals view="Contracting_new" val="0.3666666666666666665"/>
+   <vals view="New Order Message Flow" val="0.3666666666666666665"/>
+   <vals view="04. Change in production schedule" val="0.35"/>
+   <vals view="02. Activity model of production operations management"
+         val="0.35"/>
+   <vals view="CRM structure_new" val="0.35"/>
+   <vals view="Vision" val="0.342857142857142857"/>
+   <vals view="Process DC orders" val="0.2666666666666666665"/>
+   <vals view="Process customer order_new" val="0.225"/>
+   <vals view="Transmit orders to PC" val="0.225"/>
+   <vals view="Evaluate credit risk_new" val="0.2"/>
+   <vals view="Inform customer" val="0.2"/>
+   <vals view="Register order_new" val="0.2"/>
+   <vals view="02. Order-to-contract" val="0.2"/>
+   <vals view="Verify total exposure" val="0.2"/>
+   <vals view="Register order" val="0.2"/>
+   <vals view="Evaluate credit risk" val="0.1833333333333333335"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="03. Order fulfillment" val="0"/>
+   <vals view="Contracting_new_IT" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="05. Equipment hierarchy" val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Compare Approaches" val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="CRM implementation and migration" val="0"/>
+   <vals view="Gap analysis and roadmaps" val="0"/>
+   <vals view="Generic ArchiMate example" val="0"/>
+   <vals view="Layered view" val="0"/>
+   <vals view="Process customer order_new_IT" val="0"/>
+   <vals view="Register order_new_IT" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Track customer order_new_IT" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="Landscape view" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+   <vals view="Transmit orders_IT_all" val="0"/>
+</tmp>, <tmp basicview="Layered">
+   <vals view="Vision" val="0.592105263157894737"/>
+   <vals view="Register order_new_IT" val="0.592105263157894737"/>
+   <vals view="Track customer order_new_IT" val="0.592105263157894737"/>
+   <vals view="Contracting" val="0.5789473684210526315"/>
+   <vals view="Contracting_new" val="0.5789473684210526315"/>
+   <vals view="Infrastructure view" val="0.5789473684210526315"/>
+   <vals view="Evaluate credit risk" val="0.5789473684210526315"/>
+   <vals view="01.1 Summary functional enterprise-control model"
+         val="0.5789473684210526315"/>
+   <vals view="New Order Message Flow" val="0.5789473684210526315"/>
+   <vals view="Evaluate credit risk_new" val="0.5657894736842105265"/>
+   <vals view="Inform customer" val="0.5657894736842105265"/>
+   <vals view="Register order_new" val="0.5657894736842105265"/>
+   <vals view="02. Order-to-contract" val="0.5657894736842105265"/>
+   <vals view="Contracting_new_IT" val="0.5657894736842105265"/>
+   <vals view="01. Functional enterprise-control model"
+         val="0.5657894736842105265"/>
+   <vals view="05. Equipment hierarchy" val="0.5657894736842105265"/>
+   <vals view="Layered view" val="0.5657894736842105265"/>
+   <vals view="Process customer order_new_IT" val="0.5657894736842105265"/>
+   <vals view="Verify total exposure" val="0.5657894736842105265"/>
+   <vals view="Register order" val="0.5657894736842105265"/>
+   <vals view="Register order_IT" val="0.5657894736842105265"/>
+   <vals view="Transmit orders_IT_all" val="0.5657894736842105265"/>
+   <vals view="Contracting_IT" val="0.552631578947368421"/>
+   <vals view="03. Order fulfillment" val="0.552631578947368421"/>
+   <vals view="CRM behavior_new_1" val="0.552631578947368421"/>
+   <vals view="CRM behavior_new_2" val="0.552631578947368421"/>
+   <vals view="Process customer order_new" val="0.552631578947368421"/>
+   <vals view="Transmit orders to PC" val="0.552631578947368421"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.539473684210526316"/>
+   <vals view="Cust. services" val="0.539473684210526316"/>
+   <vals view="Cust. services_new" val="0.539473684210526316"/>
+   <vals view="Cust. services_new" val="0.539473684210526316"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0.539473684210526316"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0.539473684210526316"/>
+   <vals view="Processes interdependencies" val="0.539473684210526316"/>
+   <vals view="Processes Interdependencies" val="0.539473684210526316"/>
+   <vals view="Landscape view" val="0.539473684210526316"/>
+   <vals view="Process DC orders" val="0.539473684210526316"/>
+   <vals view="Process DCorders_IT" val="0.539473684210526316"/>
+   <vals view="07. Object model summary" val="0.5263157894736842105"/>
+   <vals view="04. Change in production schedule" val="0.5263157894736842105"/>
+   <vals view="Business functions" val="0.5263157894736842105"/>
+   <vals view="Business functions_new" val="0.5263157894736842105"/>
+   <vals view="02. Activity model of production operations management"
+         val="0.5263157894736842105"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0.5263157894736842105"/>
+   <vals view="Total view for Process cell controller"
+         val="0.5263157894736842105"/>
+   <vals view="Total view for Production line controller"
+         val="0.5263157894736842105"/>
+   <vals view="Application architecture" val="0.5263157894736842105"/>
+   <vals view="Application architecture_new_1" val="0.5263157894736842105"/>
+   <vals view="CRM structure_new" val="0.5263157894736842105"/>
+   <vals view="Org. structure_new" val="0.5131578947368421055"/>
+   <vals view="Organisation dpts" val="0.5131578947368421055"/>
+   <vals view="Functional enterprise-control model" val="0.5131578947368421055"/>
+   <vals view="03. CRM functional model" val="0.5131578947368421055"/>
+   <vals view="Total view for Controller" val="0.5131578947368421055"/>
+   <vals view="01.2 Enterprise functions" val="0.5131578947368421055"/>
+   <vals view="01.3 Control functions" val="0.5131578947368421055"/>
+   <vals view="06. Message verbs by transaction models"
+         val="0.5131578947368421055"/>
+   <vals view="CRM behavior_new_3" val="0.5131578947368421055"/>
+   <vals view="CRM behavior_new_4" val="0.5131578947368421055"/>
+   <vals view="Generic ArchiMate example" val="0.4229323308270676695"/>
+   <vals view="Gap analysis and roadmaps" val="0.302631578947368421"/>
+   <vals view="CRM implementation and migration" val="0.289473684210526316"/>
+   <vals view="08. ArchiMate generic example" val="0.2631578947368421055"/>
+   <vals view="Compare Approaches" val="0.2631578947368421055"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+</tmp>, <tmp basicview="Migration">
+   <vals view="Gap analysis and roadmaps" val="0.625"/>
+   <vals view="CRM implementation and migration" val="0.3333333333333333335"/>
+   <vals view="Vision" val="0"/>
+   <vals view="05. ISA-95 messages exchanged" val="0"/>
+   <vals view="07. Object model summary" val="0"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="02. Order-to-contract" val="0"/>
+   <vals view="03. Order fulfillment" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Contracting_new_IT" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="05. Equipment hierarchy" val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Compare Approaches" val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="Generic ArchiMate example" val="0"/>
+   <vals view="Layered view" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Process customer order_new_IT" val="0"/>
+   <vals view="Register order_new_IT" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Track customer order_new_IT" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="06. Message verbs by transaction models" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="CRM structure_new" val="0"/>
+   <vals view="Landscape view" val="0"/>
+   <vals view="New Order Message Flow" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+   <vals view="Transmit orders_IT_all" val="0"/>
+</tmp>, <tmp basicview="Motivation">
+   <vals view="Business performance - solutions" val="0.75"/>
+   <vals view="Customer satisfaction focus - solutions" val="0.75"/>
+   <vals view="Architecture vision" val="0.75"/>
+   <vals view="01. Stakeholder" val="0.7"/>
+   <vals view="Motivation - business performance focus" val="0.65"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0.65"/>
+   <vals view="Compare Approaches" val="0.3"/>
+   <vals view="Generic ArchiMate example" val="0.1214285714285714285"/>
+   <vals view="Vision" val="0"/>
+   <vals view="05. ISA-95 messages exchanged" val="0"/>
+   <vals view="07. Object model summary" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="02. Order-to-contract" val="0"/>
+   <vals view="03. Order fulfillment" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Contracting_new_IT" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="05. Equipment hierarchy" val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="CRM implementation and migration" val="0"/>
+   <vals view="Gap analysis and roadmaps" val="0"/>
+   <vals view="Layered view" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Process customer order_new_IT" val="0"/>
+   <vals view="Register order_new_IT" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Track customer order_new_IT" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="06. Message verbs by transaction models" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="CRM structure_new" val="0"/>
+   <vals view="Landscape view" val="0"/>
+   <vals view="New Order Message Flow" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+   <vals view="Transmit orders_IT_all" val="0"/>
+</tmp>, <tmp basicview="Organization">
+   <vals view="Org. structure_new" val="0.6"/>
+   <vals view="Organisation dpts" val="0.6"/>
+   <vals view="Total view for Controller" val="0.6"/>
+   <vals view="05. Equipment hierarchy" val="0.4"/>
+   <vals view="Evaluate credit risk" val="0.3666666666666666665"/>
+   <vals view="Business functions" val="0.35"/>
+   <vals view="Business functions_new" val="0.35"/>
+   <vals view="Total view for Process cell controller" val="0.35"/>
+   <vals view="Total view for Production line controller" val="0.35"/>
+   <vals view="Cust. services" val="0.2666666666666666665"/>
+   <vals view="Cust. services_new" val="0.2666666666666666665"/>
+   <vals view="Cust. services_new" val="0.2666666666666666665"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0.2666666666666666665"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0.2666666666666666665"/>
+   <vals view="Processes interdependencies" val="0.2666666666666666665"/>
+   <vals view="Processes Interdependencies" val="0.2666666666666666665"/>
+   <vals view="Landscape view" val="0.2666666666666666665"/>
+   <vals view="Process DC orders" val="0.2666666666666666665"/>
+   <vals view="03. Order fulfillment" val="0.225"/>
+   <vals view="Process customer order_new" val="0.225"/>
+   <vals view="Transmit orders to PC" val="0.225"/>
+   <vals view="Evaluate credit risk_new" val="0.2"/>
+   <vals view="Inform customer" val="0.2"/>
+   <vals view="Register order_new" val="0.2"/>
+   <vals view="02. Order-to-contract" val="0.2"/>
+   <vals view="Contracting_new_IT" val="0.2"/>
+   <vals view="Layered view" val="0.2"/>
+   <vals view="Process customer order_new_IT" val="0.2"/>
+   <vals view="Verify total exposure" val="0.2"/>
+   <vals view="Register order" val="0.2"/>
+   <vals view="Transmit orders_IT_all" val="0.2"/>
+   <vals view="Contracting" val="0.1833333333333333335"/>
+   <vals view="Contracting_new" val="0.1833333333333333335"/>
+   <vals view="01.1 Summary functional enterprise-control model"
+         val="0.1833333333333333335"/>
+   <vals view="New Order Message Flow" val="0.1833333333333333335"/>
+   <vals view="Vision" val="0.1714285714285714285"/>
+   <vals view="Register order_new_IT" val="0.1714285714285714285"/>
+   <vals view="Track customer order_new_IT" val="0.1714285714285714285"/>
+   <vals view="05. ISA-95 messages exchanged" val="0"/>
+   <vals view="07. Object model summary" val="0"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Compare Approaches" val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="CRM implementation and migration" val="0"/>
+   <vals view="Gap analysis and roadmaps" val="0"/>
+   <vals view="Generic ArchiMate example" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="06. Message verbs by transaction models" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="CRM structure_new" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+</tmp>, <tmp basicview="OutcomeRealization">
+   <vals view="Vision" val="0.5813953488372093025"/>
+   <vals view="Register order_new_IT" val="0.5813953488372093025"/>
+   <vals view="Track customer order_new_IT" val="0.5813953488372093025"/>
+   <vals view="Contracting" val="0.5697674418604651165"/>
+   <vals view="Contracting_new" val="0.5697674418604651165"/>
+   <vals view="Infrastructure view" val="0.5697674418604651165"/>
+   <vals view="Evaluate credit risk" val="0.5697674418604651165"/>
+   <vals view="01.1 Summary functional enterprise-control model"
+         val="0.5697674418604651165"/>
+   <vals view="New Order Message Flow" val="0.5697674418604651165"/>
+   <vals view="Evaluate credit risk_new" val="0.55813953488372093"/>
+   <vals view="Inform customer" val="0.55813953488372093"/>
+   <vals view="Register order_new" val="0.55813953488372093"/>
+   <vals view="02. Order-to-contract" val="0.55813953488372093"/>
+   <vals view="Contracting_new_IT" val="0.55813953488372093"/>
+   <vals view="01. Functional enterprise-control model"
+         val="0.55813953488372093"/>
+   <vals view="05. Equipment hierarchy" val="0.55813953488372093"/>
+   <vals view="Layered view" val="0.55813953488372093"/>
+   <vals view="Process customer order_new_IT" val="0.55813953488372093"/>
+   <vals view="Verify total exposure" val="0.55813953488372093"/>
+   <vals view="Register order" val="0.55813953488372093"/>
+   <vals view="Register order_IT" val="0.55813953488372093"/>
+   <vals view="Transmit orders_IT_all" val="0.55813953488372093"/>
+   <vals view="Contracting_IT" val="0.546511627906976744"/>
+   <vals view="03. Order fulfillment" val="0.546511627906976744"/>
+   <vals view="CRM behavior_new_1" val="0.546511627906976744"/>
+   <vals view="CRM behavior_new_2" val="0.546511627906976744"/>
+   <vals view="Process customer order_new" val="0.546511627906976744"/>
+   <vals view="Transmit orders to PC" val="0.546511627906976744"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.534883720930232558"/>
+   <vals view="Cust. services" val="0.534883720930232558"/>
+   <vals view="Cust. services_new" val="0.534883720930232558"/>
+   <vals view="Cust. services_new" val="0.534883720930232558"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0.534883720930232558"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0.534883720930232558"/>
+   <vals view="Processes interdependencies" val="0.534883720930232558"/>
+   <vals view="Processes Interdependencies" val="0.534883720930232558"/>
+   <vals view="Landscape view" val="0.534883720930232558"/>
+   <vals view="Process DC orders" val="0.534883720930232558"/>
+   <vals view="Process DCorders_IT" val="0.534883720930232558"/>
+   <vals view="07. Object model summary" val="0.523255813953488372"/>
+   <vals view="04. Change in production schedule" val="0.523255813953488372"/>
+   <vals view="Business functions" val="0.523255813953488372"/>
+   <vals view="Business functions_new" val="0.523255813953488372"/>
+   <vals view="02. Activity model of production operations management"
+         val="0.523255813953488372"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0.523255813953488372"/>
+   <vals view="Total view for Process cell controller"
+         val="0.523255813953488372"/>
+   <vals view="Total view for Production line controller"
+         val="0.523255813953488372"/>
+   <vals view="Application architecture" val="0.523255813953488372"/>
+   <vals view="Application architecture_new_1" val="0.523255813953488372"/>
+   <vals view="CRM structure_new" val="0.523255813953488372"/>
+   <vals view="Org. structure_new" val="0.511627906976744186"/>
+   <vals view="Organisation dpts" val="0.511627906976744186"/>
+   <vals view="Functional enterprise-control model" val="0.511627906976744186"/>
+   <vals view="03. CRM functional model" val="0.511627906976744186"/>
+   <vals view="Total view for Controller" val="0.511627906976744186"/>
+   <vals view="01.2 Enterprise functions" val="0.511627906976744186"/>
+   <vals view="01.3 Control functions" val="0.511627906976744186"/>
+   <vals view="06. Message verbs by transaction models"
+         val="0.511627906976744186"/>
+   <vals view="CRM behavior_new_3" val="0.511627906976744186"/>
+   <vals view="CRM behavior_new_4" val="0.511627906976744186"/>
+   <vals view="Generic ArchiMate example" val="0.415282392026578073"/>
+   <vals view="Gap analysis and roadmaps" val="0.296511627906976744"/>
+   <vals view="CRM implementation and migration" val="0.284883720930232558"/>
+   <vals view="08. ArchiMate generic example" val="0.261627906976744186"/>
+   <vals view="Compare Approaches" val="0.261627906976744186"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+</tmp>, <tmp basicview="Physical">
+   <vals view="Total view for Process cell controller"
+         val="0.611111111111111111"/>
+   <vals view="Total view for Production line controller"
+         val="0.611111111111111111"/>
+   <vals view="Total view for Controller" val="0.5555555555555555555"/>
+   <vals view="Infrastructure view" val="0.4166666666666666665"/>
+   <vals view="05. Equipment hierarchy" val="0.311111111111111111"/>
+   <vals view="Generic ArchiMate example" val="0.126984126984126984"/>
+   <vals view="Gap analysis and roadmaps" val="0.1180555555555555555"/>
+   <vals view="Vision" val="0"/>
+   <vals view="05. ISA-95 messages exchanged" val="0"/>
+   <vals view="07. Object model summary" val="0"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="02. Order-to-contract" val="0"/>
+   <vals view="03. Order fulfillment" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Contracting_new_IT" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Compare Approaches" val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="CRM implementation and migration" val="0"/>
+   <vals view="Layered view" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Process customer order_new_IT" val="0"/>
+   <vals view="Register order_new_IT" val="0"/>
+   <vals view="Track customer order_new_IT" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="06. Message verbs by transaction models" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="CRM structure_new" val="0"/>
+   <vals view="Landscape view" val="0"/>
+   <vals view="New Order Message Flow" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+   <vals view="Transmit orders_IT_all" val="0"/>
+</tmp>, <tmp basicview="Product">
+   <vals view="Vision" val="0.64"/>
+   <vals view="Register order_new_IT" val="0.64"/>
+   <vals view="Track customer order_new_IT" val="0.64"/>
+   <vals view="Evaluate credit risk" val="0.62"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0.62"/>
+   <vals view="New Order Message Flow" val="0.62"/>
+   <vals view="Evaluate credit risk_new" val="0.6"/>
+   <vals view="Inform customer" val="0.6"/>
+   <vals view="Register order_new" val="0.6"/>
+   <vals view="02. Order-to-contract" val="0.6"/>
+   <vals view="Contracting_new_IT" val="0.6"/>
+   <vals view="Process customer order_new_IT" val="0.6"/>
+   <vals view="Verify total exposure" val="0.6"/>
+   <vals view="Register order" val="0.6"/>
+   <vals view="Register order_IT" val="0.6"/>
+   <vals view="Transmit orders_IT_all" val="0.6"/>
+   <vals view="Contracting_IT" val="0.58"/>
+   <vals view="03. Order fulfillment" val="0.58"/>
+   <vals view="CRM behavior_new_1" val="0.58"/>
+   <vals view="CRM behavior_new_2" val="0.58"/>
+   <vals view="Process customer order_new" val="0.58"/>
+   <vals view="Transmit orders to PC" val="0.58"/>
+   <vals view="Cust. services" val="0.56"/>
+   <vals view="Cust. services_new" val="0.56"/>
+   <vals view="Cust. services_new" val="0.56"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0.56"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0.56"/>
+   <vals view="Processes interdependencies" val="0.56"/>
+   <vals view="Processes Interdependencies" val="0.56"/>
+   <vals view="Landscape view" val="0.56"/>
+   <vals view="Process DC orders" val="0.56"/>
+   <vals view="Process DCorders_IT" val="0.56"/>
+   <vals view="07. Object model summary" val="0.54"/>
+   <vals view="04. Change in production schedule" val="0.54"/>
+   <vals view="Business functions" val="0.54"/>
+   <vals view="Business functions_new" val="0.54"/>
+   <vals view="02. Activity model of production operations management"
+         val="0.54"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0.54"/>
+   <vals view="CRM structure_new" val="0.54"/>
+   <vals view="Org. structure_new" val="0.52"/>
+   <vals view="Organisation dpts" val="0.52"/>
+   <vals view="Functional enterprise-control model" val="0.52"/>
+   <vals view="03. CRM functional model" val="0.52"/>
+   <vals view="01.2 Enterprise functions" val="0.52"/>
+   <vals view="01.3 Control functions" val="0.52"/>
+   <vals view="06. Message verbs by transaction models" val="0.52"/>
+   <vals view="CRM behavior_new_3" val="0.52"/>
+   <vals view="CRM behavior_new_4" val="0.52"/>
+   <vals view="Contracting" val="0.5166666666666666665"/>
+   <vals view="Contracting_new" val="0.5166666666666666665"/>
+   <vals view="01. Functional enterprise-control model" val="0.48"/>
+   <vals view="Layered view" val="0.48"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.3733333333333333335"/>
+   <vals view="Generic ArchiMate example" val="0.3657142857142857145"/>
+   <vals view="CRM implementation and migration" val="0.31"/>
+   <vals view="08. ArchiMate generic example" val="0.27"/>
+   <vals view="Compare Approaches" val="0.27"/>
+   <vals view="Application architecture" val="0.27"/>
+   <vals view="Application architecture_new_1" val="0.27"/>
+   <vals view="Gap analysis and roadmaps" val="0.2475"/>
+   <vals view="05. Equipment hierarchy" val="0.24"/>
+   <vals view="Infrastructure view" val="0.1033333333333333335"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+</tmp>, <tmp basicview="Project">
+   <vals view="Org. structure_new" val="0.5833333333333333335"/>
+   <vals view="Organisation dpts" val="0.5833333333333333335"/>
+   <vals view="Business functions" val="0.3333333333333333335"/>
+   <vals view="Business functions_new" val="0.3333333333333333335"/>
+   <vals view="08. ArchiMate generic example" val="0.3333333333333333335"/>
+   <vals view="Compare Approaches" val="0.3333333333333333335"/>
+   <vals view="Evaluate credit risk" val="0.333333333333333333"/>
+   <vals view="CRM implementation and migration" val="0.333333333333333333"/>
+   <vals view="Generic ArchiMate example" val="0.3095238095238095235"/>
+   <vals view="Gap analysis and roadmaps" val="0.2916666666666666665"/>
+   <vals view="Cust. services" val="0.25"/>
+   <vals view="Cust. services_new" val="0.25"/>
+   <vals view="Cust. services_new" val="0.25"/>
+   <vals view="Processes interdependencies" val="0.25"/>
+   <vals view="Processes Interdependencies" val="0.25"/>
+   <vals view="Landscape view" val="0.25"/>
+   <vals view="Process DC orders" val="0.25"/>
+   <vals view="01. Stakeholder" val="0.2083333333333333335"/>
+   <vals view="03. Order fulfillment" val="0.2083333333333333335"/>
+   <vals view="Process customer order_new" val="0.2083333333333333335"/>
+   <vals view="Transmit orders to PC" val="0.2083333333333333335"/>
+   <vals view="Business performance - solutions" val="0.1833333333333333335"/>
+   <vals view="Customer satisfaction focus - solutions"
+         val="0.1833333333333333335"/>
+   <vals view="Evaluate credit risk_new" val="0.1833333333333333335"/>
+   <vals view="Inform customer" val="0.1833333333333333335"/>
+   <vals view="Register order_new" val="0.1833333333333333335"/>
+   <vals view="02. Order-to-contract" val="0.1833333333333333335"/>
+   <vals view="Contracting_new_IT" val="0.1833333333333333335"/>
+   <vals view="05. Equipment hierarchy" val="0.1833333333333333335"/>
+   <vals view="Architecture vision" val="0.1833333333333333335"/>
+   <vals view="Layered view" val="0.1833333333333333335"/>
+   <vals view="Process customer order_new_IT" val="0.1833333333333333335"/>
+   <vals view="Verify total exposure" val="0.1833333333333333335"/>
+   <vals view="Register order" val="0.1833333333333333335"/>
+   <vals view="Transmit orders_IT_all" val="0.1833333333333333335"/>
+   <vals view="Contracting" val="0.166666666666666667"/>
+   <vals view="Contracting_new" val="0.166666666666666667"/>
+   <vals view="New Order Message Flow" val="0.166666666666666667"/>
+   <vals view="Vision" val="0.154761904761904762"/>
+   <vals view="Register order_new_IT" val="0.154761904761904762"/>
+   <vals view="Track customer order_new_IT" val="0.154761904761904762"/>
+   <vals view="05. ISA-95 messages exchanged" val="0"/>
+   <vals view="07. Object model summary" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="06. Message verbs by transaction models" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="CRM structure_new" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+</tmp>, <tmp basicview="RequirementsRealization">
+   <vals view="Vision" val="0.5795454545454545455"/>
+   <vals view="Register order_new_IT" val="0.5795454545454545455"/>
+   <vals view="Track customer order_new_IT" val="0.5795454545454545455"/>
+   <vals view="Contracting" val="0.568181818181818182"/>
+   <vals view="Contracting_new" val="0.568181818181818182"/>
+   <vals view="Infrastructure view" val="0.568181818181818182"/>
+   <vals view="Evaluate credit risk" val="0.568181818181818182"/>
+   <vals view="01.1 Summary functional enterprise-control model"
+         val="0.568181818181818182"/>
+   <vals view="New Order Message Flow" val="0.568181818181818182"/>
+   <vals view="Evaluate credit risk_new" val="0.556818181818181818"/>
+   <vals view="Inform customer" val="0.556818181818181818"/>
+   <vals view="Register order_new" val="0.556818181818181818"/>
+   <vals view="02. Order-to-contract" val="0.556818181818181818"/>
+   <vals view="Contracting_new_IT" val="0.556818181818181818"/>
+   <vals view="01. Functional enterprise-control model"
+         val="0.556818181818181818"/>
+   <vals view="05. Equipment hierarchy" val="0.556818181818181818"/>
+   <vals view="Layered view" val="0.556818181818181818"/>
+   <vals view="Process customer order_new_IT" val="0.556818181818181818"/>
+   <vals view="Verify total exposure" val="0.556818181818181818"/>
+   <vals view="Register order" val="0.556818181818181818"/>
+   <vals view="Register order_IT" val="0.556818181818181818"/>
+   <vals view="Transmit orders_IT_all" val="0.556818181818181818"/>
+   <vals view="Contracting_IT" val="0.5454545454545454545"/>
+   <vals view="03. Order fulfillment" val="0.5454545454545454545"/>
+   <vals view="CRM behavior_new_1" val="0.5454545454545454545"/>
+   <vals view="CRM behavior_new_2" val="0.5454545454545454545"/>
+   <vals view="Process customer order_new" val="0.5454545454545454545"/>
+   <vals view="Transmit orders to PC" val="0.5454545454545454545"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.534090909090909091"/>
+   <vals view="Cust. services" val="0.534090909090909091"/>
+   <vals view="Cust. services_new" val="0.534090909090909091"/>
+   <vals view="Cust. services_new" val="0.534090909090909091"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0.534090909090909091"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0.534090909090909091"/>
+   <vals view="Processes interdependencies" val="0.534090909090909091"/>
+   <vals view="Processes Interdependencies" val="0.534090909090909091"/>
+   <vals view="Landscape view" val="0.534090909090909091"/>
+   <vals view="Process DC orders" val="0.534090909090909091"/>
+   <vals view="Process DCorders_IT" val="0.534090909090909091"/>
+   <vals view="07. Object model summary" val="0.5227272727272727275"/>
+   <vals view="04. Change in production schedule" val="0.5227272727272727275"/>
+   <vals view="Business functions" val="0.5227272727272727275"/>
+   <vals view="Business functions_new" val="0.5227272727272727275"/>
+   <vals view="02. Activity model of production operations management"
+         val="0.5227272727272727275"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0.5227272727272727275"/>
+   <vals view="Compare Approaches" val="0.5227272727272727275"/>
+   <vals view="Total view for Process cell controller"
+         val="0.5227272727272727275"/>
+   <vals view="Total view for Production line controller"
+         val="0.5227272727272727275"/>
+   <vals view="Application architecture" val="0.5227272727272727275"/>
+   <vals view="Application architecture_new_1" val="0.5227272727272727275"/>
+   <vals view="CRM structure_new" val="0.5227272727272727275"/>
+   <vals view="Org. structure_new" val="0.5113636363636363635"/>
+   <vals view="Organisation dpts" val="0.5113636363636363635"/>
+   <vals view="Functional enterprise-control model" val="0.5113636363636363635"/>
+   <vals view="03. CRM functional model" val="0.5113636363636363635"/>
+   <vals view="Total view for Controller" val="0.5113636363636363635"/>
+   <vals view="01.2 Enterprise functions" val="0.5113636363636363635"/>
+   <vals view="01.3 Control functions" val="0.5113636363636363635"/>
+   <vals view="06. Message verbs by transaction models"
+         val="0.5113636363636363635"/>
+   <vals view="CRM behavior_new_3" val="0.5113636363636363635"/>
+   <vals view="CRM behavior_new_4" val="0.5113636363636363635"/>
+   <vals view="Generic ArchiMate example" val="0.4967532467532467535"/>
+   <vals view="Gap analysis and roadmaps" val="0.2954545454545454545"/>
+   <vals view="CRM implementation and migration" val="0.284090909090909091"/>
+   <vals view="08. ArchiMate generic example" val="0.2613636363636363635"/>
+   <vals view="Business performance - solutions" val="0.2227272727272727275"/>
+   <vals view="Customer satisfaction focus - solutions"
+         val="0.2227272727272727275"/>
+   <vals view="Architecture vision" val="0.2227272727272727275"/>
+   <vals view="01. Stakeholder" val="0.1363636363636363635"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+</tmp>, <tmp basicview="ResourceMap">
+   <vals view="08. ArchiMate generic example" val="0.4166666666666666665"/>
+   <vals view="CRM implementation and migration" val="0.25"/>
+   <vals view="Generic ArchiMate example" val="0.238095238095238095"/>
+   <vals view="Gap analysis and roadmaps" val="0.2291666666666666665"/>
+   <vals view="Vision" val="0"/>
+   <vals view="05. ISA-95 messages exchanged" val="0"/>
+   <vals view="07. Object model summary" val="0"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="02. Order-to-contract" val="0"/>
+   <vals view="03. Order fulfillment" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Contracting_new_IT" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="05. Equipment hierarchy" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Compare Approaches" val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="Layered view" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Process customer order_new_IT" val="0"/>
+   <vals view="Register order_new_IT" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Track customer order_new_IT" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="06. Message verbs by transaction models" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="CRM structure_new" val="0"/>
+   <vals view="Landscape view" val="0"/>
+   <vals view="New Order Message Flow" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+   <vals view="Transmit orders_IT_all" val="0"/>
+</tmp>, <tmp basicview="ServiceRealization">
+   <vals view="Vision" val="0.675"/>
+   <vals view="Register order_new_IT" val="0.675"/>
+   <vals view="Track customer order_new_IT" val="0.675"/>
+   <vals view="Contracting" val="0.65"/>
+   <vals view="Contracting_new" val="0.65"/>
+   <vals view="Evaluate credit risk" val="0.65"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0.65"/>
+   <vals view="New Order Message Flow" val="0.65"/>
+   <vals view="Evaluate credit risk_new" val="0.625"/>
+   <vals view="Inform customer" val="0.625"/>
+   <vals view="Register order_new" val="0.625"/>
+   <vals view="02. Order-to-contract" val="0.625"/>
+   <vals view="Contracting_new_IT" val="0.625"/>
+   <vals view="Process customer order_new_IT" val="0.625"/>
+   <vals view="Verify total exposure" val="0.625"/>
+   <vals view="Register order" val="0.625"/>
+   <vals view="Register order_IT" val="0.625"/>
+   <vals view="Transmit orders_IT_all" val="0.625"/>
+   <vals view="Contracting_IT" val="0.6"/>
+   <vals view="03. Order fulfillment" val="0.6"/>
+   <vals view="CRM behavior_new_1" val="0.6"/>
+   <vals view="CRM behavior_new_2" val="0.6"/>
+   <vals view="Process customer order_new" val="0.6"/>
+   <vals view="Transmit orders to PC" val="0.6"/>
+   <vals view="Cust. services" val="0.575"/>
+   <vals view="Cust. services_new" val="0.575"/>
+   <vals view="Cust. services_new" val="0.575"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0.575"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0.575"/>
+   <vals view="Processes interdependencies" val="0.575"/>
+   <vals view="Processes Interdependencies" val="0.575"/>
+   <vals view="Landscape view" val="0.575"/>
+   <vals view="Process DC orders" val="0.575"/>
+   <vals view="Process DCorders_IT" val="0.575"/>
+   <vals view="07. Object model summary" val="0.55"/>
+   <vals view="04. Change in production schedule" val="0.55"/>
+   <vals view="Business functions" val="0.55"/>
+   <vals view="Business functions_new" val="0.55"/>
+   <vals view="02. Activity model of production operations management"
+         val="0.55"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0.55"/>
+   <vals view="CRM structure_new" val="0.55"/>
+   <vals view="Org. structure_new" val="0.525"/>
+   <vals view="Organisation dpts" val="0.525"/>
+   <vals view="Functional enterprise-control model" val="0.525"/>
+   <vals view="03. CRM functional model" val="0.525"/>
+   <vals view="01.2 Enterprise functions" val="0.525"/>
+   <vals view="01.3 Control functions" val="0.525"/>
+   <vals view="06. Message verbs by transaction models" val="0.525"/>
+   <vals view="CRM behavior_new_3" val="0.525"/>
+   <vals view="CRM behavior_new_4" val="0.525"/>
+   <vals view="01. Functional enterprise-control model" val="0.5"/>
+   <vals view="Layered view" val="0.5"/>
+   <vals view="Generic ArchiMate example" val="0.3857142857142857145"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.3833333333333333335"/>
+   <vals view="CRM implementation and migration" val="0.325"/>
+   <vals view="08. ArchiMate generic example" val="0.275"/>
+   <vals view="Compare Approaches" val="0.275"/>
+   <vals view="Application architecture" val="0.275"/>
+   <vals view="Application architecture_new_1" val="0.275"/>
+   <vals view="Gap analysis and roadmaps" val="0.2625"/>
+   <vals view="05. Equipment hierarchy" val="0.25"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+</tmp>, <tmp basicview="Stakeholder">
+   <vals view="01. Stakeholder" val="0.9"/>
+   <vals view="Business performance - solutions" val="0.8"/>
+   <vals view="Customer satisfaction focus - solutions" val="0.8"/>
+   <vals view="Motivation - business performance focus" val="0.8"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0.8"/>
+   <vals view="Architecture vision" val="0.8"/>
+   <vals view="Compare Approaches" val="0.35"/>
+   <vals view="Generic ArchiMate example" val="0.1714285714285714285"/>
+   <vals view="Vision" val="0"/>
+   <vals view="05. ISA-95 messages exchanged" val="0"/>
+   <vals view="07. Object model summary" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="02. Order-to-contract" val="0"/>
+   <vals view="03. Order fulfillment" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Contracting_new_IT" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="05. Equipment hierarchy" val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="CRM implementation and migration" val="0"/>
+   <vals view="Gap analysis and roadmaps" val="0"/>
+   <vals view="Layered view" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Process customer order_new_IT" val="0"/>
+   <vals view="Register order_new_IT" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Track customer order_new_IT" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="06. Message verbs by transaction models" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="CRM structure_new" val="0"/>
+   <vals view="Landscape view" val="0"/>
+   <vals view="New Order Message Flow" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+   <vals view="Transmit orders_IT_all" val="0"/>
+</tmp>, <tmp basicview="Strategy">
+   <vals view="Vision" val="0"/>
+   <vals view="05. ISA-95 messages exchanged" val="0"/>
+   <vals view="07. Object model summary" val="0"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Infrastructure view" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="02. Order-to-contract" val="0"/>
+   <vals view="03. Order fulfillment" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Contracting_new_IT" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="05. Equipment hierarchy" val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Compare Approaches" val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="CRM implementation and migration" val="0"/>
+   <vals view="Gap analysis and roadmaps" val="0"/>
+   <vals view="Generic ArchiMate example" val="0"/>
+   <vals view="Layered view" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Process customer order_new_IT" val="0"/>
+   <vals view="Register order_new_IT" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Total view for Process cell controller" val="0"/>
+   <vals view="Total view for Production line controller" val="0"/>
+   <vals view="Track customer order_new_IT" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="06. Message verbs by transaction models" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="CRM structure_new" val="0"/>
+   <vals view="Landscape view" val="0"/>
+   <vals view="New Order Message Flow" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+   <vals view="Transmit orders_IT_all" val="0"/>
+</tmp>, <tmp basicview="Technology">
+   <vals view="Infrastructure view" val="0.7142857142857142855"/>
+   <vals view="Total view for Process cell controller"
+         val="0.5714285714285714285"/>
+   <vals view="Total view for Production line controller"
+         val="0.5714285714285714285"/>
+   <vals view="Total view for Controller" val="0.5357142857142857145"/>
+   <vals view="05. Equipment hierarchy" val="0.2714285714285714285"/>
+   <vals view="Generic ArchiMate example" val="0.107142857142857143"/>
+   <vals view="Gap analysis and roadmaps" val="0.0982142857142857145"/>
+   <vals view="Vision" val="0"/>
+   <vals view="05. ISA-95 messages exchanged" val="0"/>
+   <vals view="07. Object model summary" val="0"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="Contracting_IT" val="0"/>
+   <vals view="02. Order-to-contract" val="0"/>
+   <vals view="03. Order fulfillment" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Contracting_new_IT" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="01. Functional enterprise-control model" val="0"/>
+   <vals view="01.1 Summary functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="03. CRM functional model" val="0"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Compare Approaches" val="0"/>
+   <vals view="CRM behavior_new_1" val="0"/>
+   <vals view="CRM behavior_new_2" val="0"/>
+   <vals view="CRM implementation and migration" val="0"/>
+   <vals view="Layered view" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Process customer order_new_IT" val="0"/>
+   <vals view="Register order_new_IT" val="0"/>
+   <vals view="Track customer order_new_IT" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="06. Message verbs by transaction models" val="0"/>
+   <vals view="Application architecture" val="0"/>
+   <vals view="Application architecture_new_1" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="CRM structure_new" val="0"/>
+   <vals view="Landscape view" val="0"/>
+   <vals view="New Order Message Flow" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Process DCorders_IT" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Register order_IT" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+   <vals view="Transmit orders_IT_all" val="0"/>
+</tmp>, <tmp basicview="TechnologyUsage">
+   <vals view="Infrastructure view" val="0.65"/>
+   <vals view="03. CRM functional model" val="0.525"/>
+   <vals view="06. Message verbs by transaction models" val="0.525"/>
+   <vals view="CRM behavior_new_1" val="0.45"/>
+   <vals view="CRM behavior_new_2" val="0.45"/>
+   <vals view="07. Object model summary" val="0.275"/>
+   <vals view="04. Enterprise business function usage of CRM application functions"
+         val="0.275"/>
+   <vals view="Total view for Process cell controller" val="0.275"/>
+   <vals view="Total view for Production line controller" val="0.275"/>
+   <vals view="Application architecture" val="0.275"/>
+   <vals view="Application architecture_new_1" val="0.275"/>
+   <vals view="CRM structure_new" val="0.275"/>
+   <vals view="New Order Message Flow" val="0.2166666666666666665"/>
+   <vals view="Vision" val="0.192857142857142857"/>
+   <vals view="Generic ArchiMate example" val="0.192857142857142857"/>
+   <vals view="Register order_new_IT" val="0.192857142857142857"/>
+   <vals view="Track customer order_new_IT" val="0.192857142857142857"/>
+   <vals view="05. ISA-95 messages exchanged" val="0.1916666666666666665"/>
+   <vals view="Landscape view" val="0.1916666666666666665"/>
+   <vals view="Process DCorders_IT" val="0.1916666666666666665"/>
+   <vals view="Gap analysis and roadmaps" val="0.175"/>
+   <vals view="Contracting_IT" val="0.15"/>
+   <vals view="Contracting_new_IT" val="0.125"/>
+   <vals view="01. Functional enterprise-control model" val="0.125"/>
+   <vals view="05. Equipment hierarchy" val="0.125"/>
+   <vals view="Layered view" val="0.125"/>
+   <vals view="Process customer order_new_IT" val="0.125"/>
+   <vals view="Register order_IT" val="0.125"/>
+   <vals view="Transmit orders_IT_all" val="0.125"/>
+   <vals view="01.1 Summary functional enterprise-control model"
+         val="0.1083333333333333335"/>
+   <vals view="CRM implementation and migration" val="0.1083333333333333335"/>
+   <vals view="Business performance - solutions" val="0"/>
+   <vals view="Customer satisfaction focus - solutions" val="0"/>
+   <vals view="Motivation - business performance focus" val="0"/>
+   <vals view="04. Change in production schedule" val="0"/>
+   <vals view="Contracting" val="0"/>
+   <vals view="Contracting_new" val="0"/>
+   <vals view="Motivation - Customer satisfaction focus" val="0"/>
+   <vals view="Org. structure_new" val="0"/>
+   <vals view="Organisation dpts" val="0"/>
+   <vals view="Cust. services" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="Evaluate credit risk_new" val="0"/>
+   <vals view="Cust. services_new" val="0"/>
+   <vals view="01. Stakeholder" val="0"/>
+   <vals view="Inform customer" val="0"/>
+   <vals view="Register order_new" val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control application interface"
+         val="0"/>
+   <vals view="Actor cooperation view for Enterprise-control functional interface"
+         val="0"/>
+   <vals view="02. Order-to-contract" val="0"/>
+   <vals view="03. Order fulfillment" val="0"/>
+   <vals view="Evaluate credit risk" val="0"/>
+   <vals view="Business functions" val="0"/>
+   <vals view="Business functions_new" val="0"/>
+   <vals view="Processes interdependencies" val="0"/>
+   <vals view="Processes Interdependencies" val="0"/>
+   <vals view="Functional enterprise-control model" val="0"/>
+   <vals view="02. Activity model of production operations management" val="0"/>
+   <vals view="08. ArchiMate generic example" val="0"/>
+   <vals view="Architecture vision" val="0"/>
+   <vals view="Compare Approaches" val="0"/>
+   <vals view="Process customer order_new" val="0"/>
+   <vals view="Total view for Controller" val="0"/>
+   <vals view="Verify total exposure" val="0"/>
+   <vals view="01.2 Enterprise functions" val="0"/>
+   <vals view="01.3 Control functions" val="0"/>
+   <vals view="Background and use of standards/reference models" val="0"/>
+   <vals view="CRM behavior_new_3" val="0"/>
+   <vals view="CRM behavior_new_4" val="0"/>
+   <vals view="Process DC orders" val="0"/>
+   <vals view="Register order" val="0"/>
+   <vals view="Transmit orders to PC" val="0"/>
+</tmp>

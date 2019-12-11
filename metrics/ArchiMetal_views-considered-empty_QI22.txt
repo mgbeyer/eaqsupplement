@@ -1,0 +1,15 @@
+01.1 Summary functional enterprise-control model
+06. Message verbs by transaction models
+08. ArchiMate generic example
+Actor cooperation view for Enterprise-control application interface
+Actor cooperation view for Enterprise-control functional interface
+Background and use of standards/reference models
+CRM behavior_new_3
+CRM behavior_new_4
+Compare Approaches
+Functional enterprise-control model
+Generic ArchiMate example
+Landscape view
+Total view for Controller
+Total view for Process cell controller
+Total view for Production line controller

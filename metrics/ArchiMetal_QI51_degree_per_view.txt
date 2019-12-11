@@ -1,0 +1,72 @@
+<tmp view="01. Functional enterprise-control model" degree="1.948717948717948718" vconnsSum="76" vnodesSum="39"/>
+<tmp view="01. Stakeholder" degree="2.444444444444444444" vconnsSum="22" vnodesSum="9"/>
+<tmp view="01.1 Summary functional enterprise-control model" degree="0" vconnsSum="0" vnodesSum="10"/>
+<tmp view="01.2 Enterprise functions" degree="1.857142857142857143" vconnsSum="26" vnodesSum="14"/>
+<tmp view="01.3 Control functions" degree="1.714285714285714286" vconnsSum="12" vnodesSum="7"/>
+<tmp view="02. Activity model of production operations management" degree="2.769230769230769231" vconnsSum="36" vnodesSum="13"/>
+<tmp view="02. Order-to-contract" degree="1.545454545454545455" vconnsSum="34" vnodesSum="22"/>
+<tmp view="03. CRM functional model" degree="1.866666666666666667" vconnsSum="28" vnodesSum="15"/>
+<tmp view="03. Order fulfillment" degree="1.8" vconnsSum="18" vnodesSum="10"/>
+<tmp view="04. Change in production schedule" degree="2.461538461538461538" vconnsSum="32" vnodesSum="13"/>
+<tmp view="04. Enterprise business function usage of CRM application functions" degree="1" vconnsSum="6" vnodesSum="6"/>
+<tmp view="05. Equipment hierarchy" degree="1.875" vconnsSum="30" vnodesSum="16"/>
+<tmp view="05. ISA-95 messages exchanged" degree="1.333333333333333333" vconnsSum="32" vnodesSum="24"/>
+<tmp view="06. Message verbs by transaction models" degree="0" vconnsSum="0" vnodesSum="14"/>
+<tmp view="07. Object model summary" degree="2.7" vconnsSum="54" vnodesSum="20"/>
+<tmp view="08. ArchiMate generic example" degree="0" vconnsSum="0" vnodesSum="3"/>
+<tmp view="Actor cooperation view for Enterprise-control application interface" degree="0" vconnsSum="0" vnodesSum="4"/>
+<tmp view="Actor cooperation view for Enterprise-control functional interface" degree="0" vconnsSum="0" vnodesSum="4"/>
+<tmp view="Application architecture" degree="3.058823529411764706" vconnsSum="52" vnodesSum="17"/>
+<tmp view="Application architecture_new_1" degree="3.666666666666666667" vconnsSum="44" vnodesSum="12"/>
+<tmp view="Architecture vision" degree="2.153846153846153846" vconnsSum="56" vnodesSum="26"/>
+<tmp view="Background and use of standards/reference models" degree="0" vconnsSum="0" vnodesSum="0"/>
+<tmp view="Business functions" degree="2.538461538461538462" vconnsSum="33" vnodesSum="13"/>
+<tmp view="Business functions_new" degree="2.5625" vconnsSum="41" vnodesSum="16"/>
+<tmp view="Business performance - solutions" degree="2.666666666666666667" vconnsSum="56" vnodesSum="21"/>
+<tmp view="CRM behavior_new_1" degree="1.666666666666666667" vconnsSum="10" vnodesSum="6"/>
+<tmp view="CRM behavior_new_2" degree="1.333333333333333333" vconnsSum="8" vnodesSum="6"/>
+<tmp view="CRM behavior_new_3" degree="0" vconnsSum="0" vnodesSum="1"/>
+<tmp view="CRM behavior_new_4" degree="0" vconnsSum="0" vnodesSum="1"/>
+<tmp view="CRM implementation and migration" degree="2.823529411764705882" vconnsSum="48" vnodesSum="17"/>
+<tmp view="CRM structure_new" degree="1.7" vconnsSum="17" vnodesSum="10"/>
+<tmp view="Compare Approaches" degree="0" vconnsSum="0" vnodesSum="4"/>
+<tmp view="Contracting" degree="2.6" vconnsSum="39" vnodesSum="15"/>
+<tmp view="Contracting_IT" degree="2.75" vconnsSum="33" vnodesSum="12"/>
+<tmp view="Contracting_new" degree="2.842105263157894737" vconnsSum="54" vnodesSum="19"/>
+<tmp view="Contracting_new_IT" degree="2.714285714285714286" vconnsSum="38" vnodesSum="14"/>
+<tmp view="Cust. services" degree="2.416666666666666667" vconnsSum="29" vnodesSum="12"/>
+<tmp view="Cust. services_new" degree="0.833333333333333333" vconnsSum="10" vnodesSum="12"/>
+<tmp view="Cust. services_new" degree="2.307692307692307692" vconnsSum="30" vnodesSum="13"/>
+<tmp view="Customer satisfaction focus - solutions" degree="2" vconnsSum="30" vnodesSum="15"/>
+<tmp view="Evaluate credit risk" degree="2.933333333333333333" vconnsSum="44" vnodesSum="15"/>
+<tmp view="Evaluate credit risk_new" degree="1.461538461538461538" vconnsSum="19" vnodesSum="13"/>
+<tmp view="Functional enterprise-control model" degree="0.428571428571428571" vconnsSum="6" vnodesSum="14"/>
+<tmp view="Gap analysis and roadmaps" degree="1.466666666666666667" vconnsSum="22" vnodesSum="15"/>
+<tmp view="Generic ArchiMate example" degree="0" vconnsSum="0" vnodesSum="9"/>
+<tmp view="Inform customer" degree="2.222222222222222222" vconnsSum="20" vnodesSum="9"/>
+<tmp view="Infrastructure view" degree="1.666666666666666667" vconnsSum="30" vnodesSum="18"/>
+<tmp view="Landscape view" degree="0" vconnsSum="0" vnodesSum="18"/>
+<tmp view="Layered view" degree="1.125" vconnsSum="18" vnodesSum="16"/>
+<tmp view="Motivation - Customer satisfaction focus" degree="2" vconnsSum="18" vnodesSum="9"/>
+<tmp view="Motivation - business performance focus" degree="2.25" vconnsSum="18" vnodesSum="8"/>
+<tmp view="New Order Message Flow" degree="1.155555555555555556" vconnsSum="52" vnodesSum="45"/>
+<tmp view="Org. structure_new" degree="0.941176470588235294" vconnsSum="16" vnodesSum="17"/>
+<tmp view="Organisation dpts" degree="0.9375" vconnsSum="15" vnodesSum="16"/>
+<tmp view="Process DC orders" degree="2.142857142857142857" vconnsSum="30" vnodesSum="14"/>
+<tmp view="Process DCorders_IT" degree="3" vconnsSum="48" vnodesSum="16"/>
+<tmp view="Process customer order_new" degree="2.307692307692307692" vconnsSum="30" vnodesSum="13"/>
+<tmp view="Process customer order_new_IT" degree="1.375" vconnsSum="22" vnodesSum="16"/>
+<tmp view="Processes Interdependencies" degree="2.352941176470588235" vconnsSum="40" vnodesSum="17"/>
+<tmp view="Processes interdependencies" degree="2.266666666666666667" vconnsSum="34" vnodesSum="15"/>
+<tmp view="Register order" degree="2.285714285714285714" vconnsSum="32" vnodesSum="14"/>
+<tmp view="Register order_IT" degree="2.266666666666666667" vconnsSum="34" vnodesSum="15"/>
+<tmp view="Register order_new" degree="2.2" vconnsSum="33" vnodesSum="15"/>
+<tmp view="Register order_new_IT" degree="1.1875" vconnsSum="19" vnodesSum="16"/>
+<tmp view="Total view for Controller" degree="0" vconnsSum="0" vnodesSum="1"/>
+<tmp view="Total view for Process cell controller" degree="1" vconnsSum="2" vnodesSum="2"/>
+<tmp view="Total view for Production line controller" degree="1" vconnsSum="2" vnodesSum="2"/>
+<tmp view="Track customer order_new_IT" degree="1.166666666666666667" vconnsSum="14" vnodesSum="12"/>
+<tmp view="Transmit orders to PC" degree="2" vconnsSum="16" vnodesSum="8"/>
+<tmp view="Transmit orders_IT_all" degree="2.2" vconnsSum="44" vnodesSum="20"/>
+<tmp view="Verify total exposure" degree="2.8" vconnsSum="42" vnodesSum="15"/>
+<tmp view="Vision" degree="1.297297297297297297" vconnsSum="48" vnodesSum="37"/>
