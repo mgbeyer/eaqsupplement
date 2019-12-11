@@ -17,7 +17,7 @@ All queries used to produce the datasets presented here are strictly derived fro
 
 ### ArchiMetal EA Model
 
-[ArchiMetal, case study paper](https://publications.opengroup.org/y164)
+[ArchiMetal, case study paper](https://publications.opengroup.org/y164) \
 [ArchiMetal, ArchiMate XML open exchange file, version Y164](https://publications.opengroup.org/y164m)
 
 
