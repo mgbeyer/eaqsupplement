@@ -1,0 +1,211 @@
+{
+  "title": "JSON-TS log format for measurement time series data",
+  "$id": "https://www.swc.rwth-aachen.de/eaqtool/JSON-TS.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "items": {
+    "title": "Log",
+    "type": "object",
+    "required": ["docType", "version", "dataSourceId", "dataProvider", "data"],
+    "additionalProperties": false,
+    "properties": {
+	  "docType": {
+        "title": "Doctype",
+        "type": "string",
+		"const": "jsonts",
+		"default": "jsonts"
+	  },
+	  "version": {
+        "title": "Doctype",
+        "type": "string",
+		"default": "1.0"
+	  },
+	  "dataSourceName": {
+        "title": "Datasource name",
+        "type": ["string", "null"],
+        "default": null
+	  },
+	  "dataSourceId": {
+        "title": "Datasource ID",
+        "type": "string"
+	  },
+      "header": {
+        "title": "Header",
+        "type": "object",
+        "properties": {
+          "datasetName": {
+            "title": "Dataset name",
+            "type": "string",
+            "default": ""
+          },
+          "datasetDescription": {
+            "title": "Dataset description",
+            "type": ["string", "null"],
+            "default": null
+          },
+          "datasetVersion": {
+            "title": "Dataset version",
+            "type": "string",
+            "default": ""
+          },
+          "datasetDate": {
+            "title": "Dataset revision date",
+            "type": "string",
+			"format": "date",
+            "default": ""
+          },
+          "startTime": {
+            "title": "Start time",
+            "type": "string",
+			"format": "date-time",
+            "default": ""
+          },
+          "endTime": {
+            "title": "End time",
+            "type": "string",
+			"format": "date-time",
+            "default": ""
+          },
+          "dataGenerator": {
+            "title": "Data source",
+            "type": ["string", "object", "array", "null"],
+            "default": null
+          },
+          "dataGeneratorVersion": {
+            "title": "Data source version",
+            "type": "string",
+            "default": ""
+          }
+        }
+      },
+      "globals": {
+        "title": "Globals",
+        "type": "object",
+        "properties": {
+          "globalBLGreen": {
+            "title": "Global normalized metric scale threshold for for optimal Benchmark Level range",
+            "type": ["string", "integer", "number"]
+          },
+          "globalBLRed": {
+            "title": "Global normalized metric scale threshold for for critical Benchmark Level range",
+            "type": ["string", "integer", "number"]
+          },
+          "globalBLMarginGreen": {
+            "title": "Margin for trend indicator of medium BL towards optimal range",
+            "type": ["string", "integer", "number"]
+          },
+          "globalBLMarginRed": {
+            "title": "Margin for trend indicator of medium BL towards critical range",
+            "type": ["string", "integer", "number"]
+          },
+          "standardScaleMin": {
+            "title": "Default normalized scale minimum value",
+            "type": ["string", "integer", "number"]
+          },
+          "standardScaleMax": {
+            "title": "Default normalized scale maximum value",
+            "type": ["string", "integer", "number"]
+          }
+        }
+      },
+      "dataProvider": {
+        "title": "Data provider",
+        "type": "array",
+        "items": {
+          "title": "Provider",
+          "type": "object",
+          "required": ["providerId", "providerName", "providerSweetspot"],
+          "properties": {
+            "providerId": {
+              "title": "Data provider ID",
+              "type": ["string", "integer"]
+            },
+            "providerName": {
+              "title": "Data provider name",
+              "type": "string",
+              "default": ""
+            },
+			  "providerDescription": {
+			  "title": "Data provider description",
+			  "type": ["string", "null"],
+			  "default": null
+			},
+            "providerVersion": {
+              "title": "Data provider version",
+              "type": "string",
+              "default": ""
+            },
+            "providerDate": {
+              "title": "Data provider revision date",
+              "type": "string",
+			  "format": "date",
+              "default": ""
+            },
+            "providerMetaHook": {
+              "title": "Data provider foreign key / additional data",
+              "type": ["string", "integer", "object", "array", "null"],
+              "default": null
+            },
+            "providerNormalizer": {
+              "title": "Data provider normalizer",
+              "type": ["string", "object", "array", "null"],
+              "default": null
+            },
+            "providerScaleMin": {
+              "title": "Data provider normalized scale minimum value",
+              "type": ["string", "integer", "number"]
+            },
+            "providerScaleMax": {
+              "title": "Data provider normalized scale maximum value",
+              "type": ["string", "integer", "number"]
+            },
+            "providerSweetspot": {
+              "title": "Data provider indicator for (data quality) optimum",
+              "type": "string",
+			  "enum": ["SCALE_MIN", "SCALE_MAX"]
+            },
+            "providerBLGreen": {
+              "title": "Data provider normalized scale threshold for optimal Benchmark Level range",
+              "type": ["string", "integer", "number"]
+            },
+            "providerBLRed": {
+              "title": "Data provider normalized scale threshold for critical Benchmark Level range",
+              "type": ["string", "integer", "number"]
+            }
+          }
+        }
+      },
+      "data": {
+        "title": "Data",
+        "type": "array",
+        "items": {
+          "title": "Data record",
+          "type": "object",
+		  "required": ["data_ts", "data_p"],
+		  "properties": {
+		    "data_ts": {
+			  "title": "Data record timestamp",
+			  "type": "string",
+			  "format": "date-time"
+		    },
+		    "data_p": {
+			  "title": "Data record payload",
+			  "type": "array",
+			  "minItems": 1,
+			  "items": {
+			    "title": "Data items for each dataProvider",
+				"type": "array",
+				"minItems": 3,
+				"maxItems": 3,
+				"items": {
+				  "title": "Data item providerID, raw and normalized values",
+				  "type": ["string", "integer", "number", "boolean", "array", "null"]
+				}
+			  }
+		    }		  
+		  }
+        }
+      }
+    }
+  }
+}
